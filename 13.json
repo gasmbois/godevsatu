@@ -1,0 +1,123 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Bus Primajasa Scorpion X Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-10-17-00-57-06_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2261.mediafire.com/7i2y0tmrw1dgrtgeSJdb5sLXMoz1y_cAm4hI0LT3iY3lurSPdknB6IjpWuo4XTzASsl3RbA14KtoPtB3fpNEFmF5y5Ko_UG__jQZW6p7qK0lY7Ettp6d8eNbeVgF8v2Fl8uAFfQOBI-KDFm0IJxtYWLeyTGd7qQqI1NKZoTOMPzez8w/qs86ohbdzq0mnbp/AVANTE+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Bus Damri Evonext Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-13-12-20-12-96_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2390.mediafire.com/8vduqd4745ggnlRlme8TcstdoQ76A_sJMj_tvuYkESuPBoeyGAaOFT7YOLtAu-Tmb3G_vKVuk6k94rTvWZa4qynPEq2fPTAAms21TxYppujN1kdKi2DP2AgRDRibj_4Vlivabv4jD3gI74nNbQzRcy-K36gl-hmD8gEH22u4oDEtA0s/6up22bl940c4t04/2.+EVONEXT+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download1077.mediafire.com/hexkis7sj5pgTQ6TCzQg6onQo-v3iGpg7iKh-FCOfz3IBwDgYpZHosv2WNdvn_q0et0xH5bHJZ4SqwHWHRVZdqFv9sa8x7jXcek4VW7tfx0WnD47MC5UU1bIPV_ye_wAZOA7VvNaRHYXPrgQrPQ__Ud1v3P8KfdiuGc013rxvTPpg_k/qy7ev611lqhh822/2.+Damri+PPD+Hammam+JM.png"
+      }  ,
+	{
+         "title": "Bus Kramat Jati JB3+ Mercy O500R Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-24-10-46-15-14_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2440.mediafire.com/c8fzxrwo4vug5_ltdSF6ig8bFd_2YzkzMAkPCJXwNoToy0z5BmDvNB8PyNUltpkrNty-V4ZNK6z5s9hrsOShp2IKKSzDm2NGK9fnP95oTi5oq1XT50SSAz8UlA7fD8BGu95bdOuG5E0l2T_3kyBAP8YdbgsdE_PevVAGnIehEbIqAsE/yr13xffgb96fwx6/4.+JB3%2B+MERCY+0500R+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download1072.mediafire.com/uz91piu92lug-ApOe_Jiu3CNduyFWm35QMLoeznv2RdEBUYx3h4xga9KEJwUzqb4bYtdm3TfdE55UGmjY7oUuIZUc10MfPzcDvbFRdQjrY37srTYvA7WOwNxg7VQura-JaejbCSgdvBUoH70lt0al-LtuUUjHfsvSUFx5sWXRDY1we8/46cf4r8ccyrkiql/4.+KRAMAT+JATI+JB3%2B+MERCY+O500R+-+BY+LB+SPEEDq.png"
+      }  ,
+	{
+         "title": "Bus Borlindo Evolander Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/12/2.-Screenshot_2021-12-16-10-26-04-52_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2391.mediafire.com/vhf6m24jxlogwZyRu1pJbLTle6ZqDBdmLk8SwFGyX5jqZ6MY9_cJr18lPf1w5Mi0ShPK9_xtX5q0YS1JcqBxIf0nJcVEKJDez0xl-jTSuSo7SXST_Kyd3L7MViLjxcGjG_RkIHljanhqueqazgQpkfNqYH00zz3gsZnaX4hT4UE9uAc/7r5jn81i8uz0gyi/2.+EVOLANDER.bussidmod",
+         "link_livery": "https://download1077.mediafire.com/28bkjs1c5iygTT_wo7HbhWMcgRN1uj1teKTg8-haC6VitKvdHsoi7cwTPgo4ZTkm9fmsDvnD9EdTCSy2Ix2FXGFaplaR5nhTF_wu7hYDituyTLSvMDKfxMDICB1j5Us-PQoYIyrmTvOnLlYFq2gYkkgw8ol271sc_am_Q3RWj9I5bKw/t9sv1t5cr44343f/2.+Livery+Borlindo.png"
+      }  ,
+	{
+         "title": "Bus Borlindo SR2 Double Decker",
+         "image": "https://modbussidterbaru.com/bus-borlindo-sr2-double-decker/",
+         "link_mods": "https://download2283.mediafire.com/q7ahuyqvsthgCUv7DNlbbfEt1-SjQZRAtSIs4QVl_ErsIO8p8LRX2-dt-9p-5yLlPvYhwgmCq-QKySLwjWoAE_x4_XRfdnjjcYfxkS7Wx9EcUstmxHNwWd9i60UiMaPbThRKFvTk7D8gIxCY4_nW0ZJHTqZok3k9KRGGEN7DCqC3PvE/67mpjw1wep8v4b9/8.+SR2+XDD.bussidmod",
+         "link_livery": "https://download1512.mediafire.com/pediu4lqzjfgPc1V5F5vVVRW0weAz9_C1PTOfdV0sWppMPyjvXm5o8L7iGWZaZqWjhl3rcngxcGUXwgGXCMx42VZjnixwFLx22cHrTbx-UWmBN74jnzS-B0mPH-EHxq0cS905x8VUYV1UI9pkYs9N7cxNbmXnMPBdHVNCFd0VLLbBgQ/y1wiqgahb2khzb6/8.+Borlindo+SR2DD+by+Blahbloh.png"
+      }  ,
+	{
+         "title": "Bus Bandung Express + Penumpang dan Kernet",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/04/Screenshot_2021-04-14-11-23-39-26_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2390.mediafire.com/8kphkx8wfolgBAQNjiR1R49iYXnf8YtjzmNmFcEb5AW_bplb0MaITo0iVrLncnKvEVaBM72CgYLB1E7j5rMQyH6bhU4CK8dTf4Lu11QkT71j6ae-vVKHD9SailzXwFFmArQTMDM4pU-2skLqJjcVUSpE7Yle9vNtow6bl5j-dg7mkCw/ccfisu6dk92upkx/3.+EVONEXT.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/qyleo0ogbkltn7i/3.+Bandung+Express+by+Blahbloh.png"
+      }  ,
+	{
+         "title": "Bus Sempat Star Tronton Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/mod-bussid-ceper-bus-sempati-star.jpg",
+         "link_mods": "https://download2266.mediafire.com/ez898i1b4mrgxI9gV24G1VbrhM0zWTyuPxDrgCq9Ae0RvzJd4qcoQRI2mfIKII2akE491TcGg8H6bVZV6uYstJxcwT4R5QBXLOgCXDrJALZvkmXMCvfPD82fuIRqQbdUNO4IX8GC1pyNhRoBEfdFAzHu7Yhpsx8Ja7WmOw0qTIqSw6c/4jm06iszbzqy0kv/1.+JB3%2B+TRONTON+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2391.mediafire.com/9aufx74idihgdMZnwlM5pU1kU8GSmH8wieW2uGygLmA9dJeJ9zUDP1AUWw3qfcUT9a-Y6DSX2egVr4Ali5ywLo-wYvX5fLx2zqKqYjJeJXvvLS8xFdzRPnqfmq3FFDjgph6wnrGH20s3CROxapSX7gk3rY4vcv4rSDtCS4GUOV9xLdc/m1ajbgouvbaqe3b/1.+Sempati+Star+JB3%2B+Tronton+by+Blahbloh.png"
+      }  ,
+	{
+         "title": "Bus PO Haryanto Ceper Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/mod-bus-ceper-haryanto-full-anim.jpg",
+         "link_mods": "http://download2389.mediafire.com/wl02x8tc1oigboLJikB8N1SLBJyH_FYDgllDUUDVZpdDRDgaIKZGW5LRP6LjZ-K7BmwcvNUA49AQ2AXhW2R1hLT1hb1q5B6nf1zVUuksmDfWH1iGPbTWJHjH-6HIMHNA5bBJHPDNTADSND2qbtO2mZTYmtwwNP1VQSGJUCskNnejXBU/yovid1roqnxwjm9/1.+JB2%2B+HINO+RK8+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "http://download2277.mediafire.com/0gpzrnc347ygnmIqyuPDHssJYVTnOY2nx52T4QovdYcERPX60DUq-A21cIIbPXCGiRBN2s_zYaRaPNxMtqPmslU5sH1AB4F7XFPCf1q-7cJnVDDWSW04uIW9-MKtdOKugvjFEgTgKdZjOA_MjUvathynfy76oawU0DIKyxgYMDazM8E/r2womwfdjddb67y/1.+Hr+023+Sensation+JB2+by+Blahbloh.png"
+      }  ,
+	{
+         "title": "Bus Scania Ceper Full Anim + Kamera Penumpang",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/mod-bussid-ceper-scania.jpg",
+         "link_mods": "https://www.mediafire.com/file/5vot3vbu3rp8lix/9.+SCORPION+KING+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2265.mediafire.com/q1lwyjjan0ngFskm8xMNyDpcZLWo4vUl64sstXfgPdZM5sSFsqax9zE0PnO97bqXsoEicOWNc6HLaKHcs_AZi2yao_VMG6SNKJGI8DE82BNv21QIuM-k4dDePV-JfHZs36Ojq5Y372N_skRXXIf0aJK8CfMdUDUntcLzfMnhrJItdDQ/c42kdl6v5puo7n2/9.+BEJEU+RAINBOW+BY+OKIN+HAPPIER.png"
+      }  ,
+	{
+         "title": "Bus SR 2 Sudiro Tungga Jaya",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-SR2-Sudiro-Tungga-Jaya-Full-Anim-Bussid.jpg",
+         "link_mods": "https://download2337.mediafire.com/1u4zy2mn172gAnZ7EnjSg92hAxk6TINSuEqpNie4MOQxXc766GmJYiPn3Zn7aombTwOoLsUeJQW3y8IQAMUlPNXpWrt2Ajxyeg-Ws5W-DlfCRWn8FP1qHLD2FvYDzdaM6-tVD6QrueM5ONTU74E-nrPmZjGHE6g0MdZlUlVHegWD2Tw/8w0gryt1v2d6cp4/1.sr2fc+bagasi+full.bussidmod",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "Bus JB3 Scania Jernih",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-JB3-SHD-Jernih-Scania-Full-Anim-Bussid.jpg",
+         "link_mods": "https://download2391.mediafire.com/jnro6umslysgQoNGxYSLtnLBNo1Q8htjSB2XClE-kGbryRlj0KB3S0o2T1jIcqyfIYE8PjnA8dna9YnUWK4QQeZJuBaLZVpQR18jssYD8Dn-zsiPhc4ovrVEgKwvVaT6eu4czZf2lnr_1mLg2rfINfEw01g25m-iS5j5dkLG1EnzIWE/znky7fweih6njvh/2.+BUS+JB3+SHD+SCANIA+FULL+ANIM.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/seo36hc1nbi2j8w/2._STJ_Jenna.png/file#"
+      }  ,
+	{
+         "title": "Bus ALS",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-bus-als-full-anim-scania-bussid.jpg",
+         "link_mods": "http://download2391.mediafire.com/5xvws7ygm1zgNVMQ7-cNjiCUZ0WuPS2Tf1kvPOtCefsaetcefO_HTIZ5iBrIRqn_85ld46b2GEDAPXEzqjglBDUmgcpZ4NP0f_8bt-eIG0weWDMVVQ3EzLiJBWwfctDCWexht8UVKDedXAS2xpTgzJxJX_2RCoJRvI4PHeFhbJ7qpxg/hnz9yzgcs9v3yzk/JB2+SHD+TRONTON+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "http://download2388.mediafire.com/lshvkgg8scjgFbqUZ8GwEVqAz3lZ6cwTWKlO2IJfj0u-lPmAiZzig8qcxqd3d0E2Hib4kdmPNKG38Bp7p7oyPATPU4-UXDcZDdnA3eVJzqHLNhr_oyLFFy3Us2dc1DsdEiLATN9C-D-_1gVqM7SC7iAczH7i0S-t3fgGh3Zf0_f_oqo/vwyb191zq0kigta/ALS+JB2+SHD+SCANIA+TRONTON+By+GARASITUBE.png"
+      }  ,
+	{
+         "title": "Bus SHD Mira",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/12/Mod-Bus-SHD-Livery-Mira-Full-Anim-Super-Jernih-Bussid.jpg",
+         "link_mods": "https://download2393.mediafire.com/2f6zxx5kd4ggCIjV5wZDPgjRN-w276_uMfNHa9oJuzmmIlF192kzNxD16mTFV5_68-QBWHolZdKnjUtmnqGd4UV5zq9FiT6fwqzk2J_5HzMDr3uwJ8tzBubPn6bl7d5_FAglMEwaz6bKXW4BUpkyCe-LFllug36k2Eg1i3rEvanzsKw/yt9knl5cttp53m8/3.MPGTmira.bussidmod",
+         "link_livery": "null"
+      } 
+   ]
+}
