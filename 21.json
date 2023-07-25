@@ -1,0 +1,117 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Truck Canter Mbois Oleng Muatan Orang Full Animasi",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/07/4.-Screenshot_2022-07-20-23-34-08-48_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2389.mediafire.com/n4jng86bqplghxzL8ErFBX-h6Ymw_Ip9IEf7B64v_wBKIvvotfFlDfef7nJpVKv2N8lW-TfecHzQCnli-_NVvkESjqyLrjJzlCmozl7OSjBKxAb3tOMjBVgoOGKTw5mtOdNmbEPOA_31ueHa0CFwLAcwBQ0GmvY-Q3CzvWTO6zKQa3o/9taavahef726h5d/4.+Canter+Mbois+Oleng+by+AD+ISKN.bussidmod",
+         "link_livery": ""
+      } , 
+	{
+         "title": "Truck Canter Ragasa Muatan Kayu Overload Oleng",
+         "image": "https://modbussidterbaru.com/truck-canter-ragasa-muatan-kayu-overload-oleng/",
+         "link_mods": "https://download2269.mediafire.com/8lo48jav3zsgVrW0Jy0x8L1MO5HnGzrSGHYlnJxpD0g1A0UfRrDUY9Y8PKcbxLdcDttagMfLObbyu7JjQvXBYajpV9WMJvyAq1JfAEa4QwW0SyhhKgK_3pl_Xn2hv91hf34Ui2t7QGVOs-1F2DhwHjZTQp-KDdJOvsBPCbU2loYXN8w/u7o99vlykmd3a4m/9.+Ragasa+Muat+Kayu+Overload+by+SG.bussidmod",
+         "link_livery": "null"
+      }  , 
+	{
+         "title": "Truck Canter Mukhlas Muatan Cabe",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/04/Download-MOD-Bussid-Truck-Canter-Mukhlas.jpg",
+         "link_mods": "https://download2389.mediafire.com/ou748mv6zwtgmZqrTjq3ndkgmOq4KRMp_ODwkP4A-rmuaLWr_pRKnOU2LAChp28qCf8sEdFDDPaA93UxZjHgzoeDZMkxgI01pzrzkxrNikNZblfNDjWXana_BLC13u0WwvszvwJRThEGS9VlFFAzgbI75JTJ9rSORU6fAlAdFAb7iSI/nlokezmx2vxxwae/truk+canter+mukhlas.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/77eposzb718llvv/Mukhlas_Berkah_Rawit.png/file"
+      }  , 
+	{
+         "title": "Truck Canter Wahyu Abadi Terbaru Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2023/01/mod-bussid-truck-canter-wahyu-abadi.jpg",
+         "link_mods": "https://www.mediafire.com/file/i74lcezcx5c4m3i/3.+WAHYU+ABADI.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/qq0euetd1dhugoc/3.+Livery+wahyu+abadI+fam8os+by+RGDESIGN..png/file"
+      }  , 
+	{
+         "title": "Canter M18 + Dashboard Racing Full Terpal ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2035-1.jpg",
+         "link_mods": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/2035-1.jpg",
+         "link_livery": "https://www.mediafire.com/file/p20vjdbhahc3gga/Livery_CANTER_M18_fam9os_by_RGDESIGN.png/file"
+      }  , 
+	{
+         "title": "Mod Mitsubishi Canter V2 by Mukhlas",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/34-2.jpg",
+         "link_mods": "https://download2388.mediafire.com/nau2t9752btg50abLSUrJ2ajjAiOvcDmyw_Fd2MaFUl5_00XrmPyUy2qJJ4xsS6Czx8kM7UyvwZ4BSMlHOQELwHE2B85dfRK7AEJy_PLt8h3UpwCuxRBunDa27b9jS3pDiy1uew5x1m-Gjv2djA8YCujWikTx40qyMeZg-fAfij1eeA/eeab3lyvn34i3xf/MOD+BUSSID+Canter+Mukhlas+V2+Varian+A.bussidmod",
+         "link_livery": "null"
+      }  , 
+	{
+         "title": "Mod Truck Canter Oppa Muda Bussid",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/6-2.jpg",
+         "link_mods": "https://download2389.mediafire.com/8o812j4qhouglwhv8beCH3z1ttMFKfHNtiJKslAqAOB_-tsaMVDZF5EGQvnTzwHLjCqtmBK2VzwWe5hGl5eTI1qzK2uhg3Mb-2u0CGfcAKFxKQamUKQOqvW2-j5kpYI5_Apekv02vkFxtlqgc92q_9lFnCfD80SkFaQDug64Kxc3ZfA/6nuvflzpyg8y8a2/Canter+New+Oppa+Muda+Terpal+Segitiga+by+ADS.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/i01xtpgzdsx5rjc/Livery_Canter_ADS_New_Oppa_Muda_By_LfDesign.png/file"
+      }  , 
+	{
+         "title": "Mod Truck Canter Wahyu Abadi Terbaru Full Anim",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/11-2.jpg",
+         "link_mods": "https://download2388.mediafire.com/th0ejrysc3ggpZHFd66AYKRDN-JJoioMCG_BacBAeLjK1YT9L_mpJyF3-_kLIBQK4rg-CccTlMolCWDTCZREiT99pM_w5iLrHvrlGlmIASKS3VkyXtBzDOuwrqL8CfHSOe16xXzlW_sptUnOkUV-G4gHSTiXhBbjCKPZjwVrImnb-bU/0k3wnq9vgw13hwn/3.+WAHYU+ABADI.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/57rzrnls3j05qx0/3._Livery_wahyu_abadI_fam8os_by_RGDESIGN..png/file"
+      }  , 
+	{
+         "title": "Truck Bussid Canter VAR 4 Avengers",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/35-2.jpg",
+         "link_mods": "https://download2263.mediafire.com/z6w4tc87nswgp1_jnTg5Nokjn1kHmVRQW6Ft2omqm0PztCSo7jLxcED-icegyV4IXojsSUZzqxPPm373q19mDfHnBArLwFQbctfYG7eLe-VnX33ico0q9wCTM88zA36eK1hPsY3AZ06GfenutRSkE7qhmEFEKzvWVSQnka2EK9CdFrs/79bwn251b8hwf2w/VAR4.bussidmod",
+         "link_livery": "null"
+      }  , 
+	{
+         "title": "Mod Bussid Samudra Nusantara",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/1-2.jpg",
+         "link_mods": "https://download2389.mediafire.com/j4rodd2n5bngtEnD5sKrxJk2EmU6B3vy-yhz5kH-vpxFTsKf3zIa1LdgNyuQCrVtXOjmnspDYngyn94B2e2coe5PSaz0Xg3_7O7w5jGyW4UzL9gn8GF5dShJEUstrdbYbhEA-aUb43BbtyZN-f9EfnaB-DEMOkDpTeMrZCKdaepL6YE/udon0nawqdazpk9/Canter+Samudra+Nusantara+by+Budesign.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/ourhhhf0f3v507b/Livery_Samudra_Nusantara_by_X_Play_Kembar.png/file"
+      }  , 
+	{
+         "title": "Mod Truck Canter Berkah Rawit bussid ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/4-2.jpg",
+         "link_mods": "https://download2389.mediafire.com/9o5ngyhbqltgh4uktbrLF6ouFVCRvvsEZ5OSz8UM7xlmFIySPDK68d21IEyW-MxbjMcBEfEXbASeJC-WjJGR1D9tN0CE57-thbBcc3IuilSwyvbg6lL2LlmermWzOir-xSa_3uJiBa1pYYQt-_KeR9AY2QHQ4ZgU1gUVu6AZXoWfTAg/7uxzriu3m8h34jf/truk+canter+mukhlas.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/1mct62fxv2wvgtg/Mukhlas_Berkah_Rawit.png/file"
+      }  , 
+	{
+         "title": "Mod truck Canter Full Anim New Calista",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/9-2.jpg",
+         "link_mods": "https://download2391.mediafire.com/k7h0zjxxhxfgxcXkrmJrvP3j5W4rnWJe5ZIWoAEOhGURBrHQLyI9W6mNuVt4yW4wVOhBhn7jNVquIHUta8lkwAkxmUmuB3Z7Uyq1NYTsof5k4ynoDOicHfRBBsN0AQrWEjIRi03f9UXwR_Op1FUXghClaApOGFVc3Kw1wWoDMYLHJqo/7t55vkvaaxx64bh/2.+S3_Shilo.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/pio3xw7qqsed2s2/2._New_Calista_%25243_AgungDwiDwi.png/file"
+      } 
+   ]
+}
