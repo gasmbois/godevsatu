@@ -1,0 +1,124 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+	{
+         "title": "Hino Mixer Semen Padang",
+         "image": "https://media.thelastsurvivors.org/2023/03/Download-Mod-BUSSID-Truck-Molen.jpg",
+         "link_mods": "https://download2277.mediafire.com/8lpxjxy4evngGtLUwKPFOp7IGUbOZdueapCKrObrOu45yXiIHDirWRDC4idws4WnWdA2LeSArDot0mBOv5jslxBsWEDpf8LCFb1pJlwCC4kuWueHFbPcM5bpWI2uawsy3TIWRlfVHvFe5bd2L_XIzgLeWHTWban4jHiBwAD-aujOVA/zamx3iw18e3kf2h/Hino+500+molen.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Hino Lohan",
+         "image": "https://media.thelastsurvivors.org/2023/03/Hino-Lohan-Molen.webp",
+         "link_mods": "https://download2260.mediafire.com/mz9sjgsssrogZWNv053LhJezveCQOItlOoXG1bK6657w2IL23ZFAXyQ2ArcWhRzE4sS8fUsAb8wIJRS3G8IJ7_bulMh7MvXmt4SRpu61dfFtFIfvKjXSu6Y__LG1-VsUuta1Zys6HK74FTuqtXrenEJIj_IXjjfO6NtqZw-is6e9_Q/gica2508upyqvc9/HINO+LOHAN+MOLEN+.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Iveco Trakker Molen Semen",
+         "image": "https://media.thelastsurvivors.org/2023/03/Iveco-Trakker-Molen-Semen.webp",
+         "link_mods": "https://download2288.mediafire.com/p4apz4fn4mtgLts02rfGiCKa38-snAMMFBEgtbxrGLq0pqbVgG_NSx0nj00o3N1YD3zV8rsfWNoTea71wvE9Gg_LPQWbMH3jK990ITF49tm8KUre8a_pSLZKEPQ6bdDrX1M4Kw1jEDrTKMSkithJi15IJjQc1CkLmfkrjgqrEYrC_A/ftcvd09wf4qmis8/Truk+Iveco+Semen+Tiga+Roda+by+Ro+Wippy+cvt+MAH+Channel.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "UD Quester Molen XPK Tiga Roda",
+         "image": "https://media.thelastsurvivors.org/2023/03/UD-Quester-Molen-XPK.webp",
+         "link_mods": "https://download2295.mediafire.com/fl3x7i8ewpxgsk6bhrnrjs2SyCDmYTkuhouxqjXzuCkJfCGtnwVsyz_RSg4IuXpFXLeVtgT_S_hfwABuwOD7DidO9YaN2gJAk7bS-ZH7yybkCQnGdCpRAv4mw8ySgT0PnWUPrZPNqufM6PJePrc7YZmlAb5z4jgLkvMafObS1JPhpQ/j8r771g2wz8s74h/UD+MOLEN.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Canter Mixer by AD ISKN",
+         "image": "https://media.thelastsurvivors.org/2023/03/Canter-Mixer-by-AD-ISKN.webp",
+         "link_mods": "https://download2393.mediafire.com/mn17t4nrvkegGOqZlJagXxdJQzC1eqCT0mrUtgDQQGxLGyxjsrh6MdZk73Q3NrNgFSrUuvvLjRIhI3jlNjN5GhuOuvUoNcJO_3uTpEtXryNuqnkdR-YUoz5NBuej7bN6WUdW6h2NMxP-fviAKUEeIazRvApBn3VLzObhZ5KW3Z0JDA/kzjrm34nktj2zlf/Canter+Mixer+by+AD+ISKN.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Dutro Mixer",
+         "image": "https://media.thelastsurvivors.org/2023/03/Dutro-Mixer.webp",
+         "link_mods": "https://www.mediafire.com/file/kzjrm34nktj2zlf/Canter+Mixer+by+AD+ISKN.bussidmod/file",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Hino 700 Mixer Molen",
+         "image": "https://media.thelastsurvivors.org/2023/03/Hino-700-Mixer-Molen.webp",
+         "link_mods": "https://www.mediafire.com/file/kzjrm34nktj2zlf/Canter+Mixer+by+AD+ISKN.bussidmod/file",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Hino Dutro Traffic Molen",
+         "image": "https://media.thelastsurvivors.org/2023/03/Hino-Dutro-Traffic-Molen.webp",
+         "link_mods": "https://download848.mediafire.com/6wybazi7cf7g7gxike9Fqyo8LbqPLIM6aMzxl2tH75vuYZHFXCLbQmrcqHdZBjuF94mLTjFUcYEhYT9u5qmkSCuPU5VLY7bLLalbO7Buofw5pLytNERx05KD10jGgROTd3HUEPDL_TNj_AOGLa2cB3-KY5qCNtmp7XSrTC69PYeTwA/ay10j425wutc5cm/traffik+hino+semen.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Hino 500 New Gen Molen",
+         "image": "https://media.thelastsurvivors.org/2023/03/Hino-500-New-Gen-Molen.webp",
+         "link_mods": "https://download1532.mediafire.com/howln4zjrtggdn4E5EYovRdphroQmkLAwAiXFxS-MEtXd1UC20Z4dnsZCPPoruvUvnJZM1i9LJzXOiAu53LGHK3xTcx9rg6TpxZa7M5nz6jCeFPe81RwjcHMT6MPc-0E8UJ1PWBwjZRxgFde9pYLXiGvp-hznRq-69U59irU_DgEUg/bqib9a5zzpsdt40/Hino+500+New+Gen+SPECIAL+MOLEN.bussidvehicle",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Isuzu NMR71 Mixer HSD",
+         "image": "https://media.thelastsurvivors.org/2023/03/Isuzu-NMR71-Mixer-HSD.webp",
+         "link_mods": "https://download1321.mediafire.com/j80irobijvfgqp3C1DzeMkflOCrW17H6HFy6CJpU8y1Gj_DwERso8HBSWrNCfMtynCaB3tJxLo3Vzd_iJfUcBiRNNp-LE96neElgFP1UKqk9Lc7OIyLWpy5puXgKmp2ekA6X5F2E6D7acH0fXQsUt-kNAqEGM5AYZP-sLRASFnotog/immdm632ahcahmk/ISUZU+NMR71+MIXER+HSD+%5BBussidGame.com%5D.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Hino 500 Tangki",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1956.jpg",
+         "link_mods": "https://download2266.mediafire.com/dj8z1aabnxjgnA26ClhLl4unTK1q2DYkSlKs_IKlPLO5aU2VN_7dOLy0PQSD4lK7o3y3kOoIFF5XL-y2Te0rIJ9eB2Xj67Yzgq-yTZqkKbJCC1ALw9K398R5yE8yde8fQAYyUfvcL7FUEjS8GFVZ5NJy6DgoW77pod2Nj72j6Hz0pQ/6p7j2f221hwn4ex/HINO+500+TANGKI+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      },
+	{
+         "title": "Hino 500 Tribal Tangki",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/09/1952.jpg",
+         "link_mods": "https://download2266.mediafire.com/dj8z1aabnxjgnA26ClhLl4unTK1q2DYkSlKs_IKlPLO5aU2VN_7dOLy0PQSD4lK7o3y3kOoIFF5XL-y2Te0rIJ9eB2Xj67Yzgq-yTZqkKbJCC1ALw9K398R5yE8yde8fQAYyUfvcL7FUEjS8GFVZ5NJy6DgoW77pod2Nj72j6Hz0pQ/6p7j2f221hwn4ex/HINO+500+TANGKI+SHARE+BY+JODS+TV.zip",
+         "link_livery": ""
+      },
+      {
+         "title": "Hino 500 Tangki Pertamina",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/321.jpg",
+         "link_mods": "",
+         "link_livery": ""
+      }
+      
+   ]
+}
