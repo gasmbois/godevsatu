@@ -1,0 +1,123 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Angkot racing Monster Energy",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1744.jpg",
+         "link_mods": "https://download2391.mediafire.com/04ggzavwimyg8OTxUSDKCARxxQiBZ7gh1R9NKMNeiBpooSPJcfbVacLRwgI9a_hfQs33I0feLW6eP5PbVqaBsPJnTgi0X-uIjKG1cm4WeuEQmVbNjMs8uenYFYfwSOAfK_QU3q_F7s4lETpnqYS4b3pINrB9_ycoLBMxgmpZl9kC/u7j32z1ghhh3u3u/ANGKOT+2.bussidvehicle",
+         "link_livery": "https://www.mediafire.com/file/37kgdzmd31wnqrr/ANGKOT_MONSTER_ENERGY.png/file"
+      } ,
+ 	{
+         "title": "Mod Angkot Oren",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1746.jpg",
+         "link_mods": "https://download2389.mediafire.com/l0a4keb2wzggn8rlXVqLpPpaY-_iRpodU63YISdaSrVMgCCp8eGETTjkwFRgmYp-D9pu_BtUD4iPbk9TRmK4eB5mCK_5BLxeLNrYYbjdAldBl3Mw7LGa8Io384vE0dTGtWLx9CUur63YrWMA_-iUFcJ35Q_X3RUtcbV01nmaA4XQ/l8ghdev97zd2bn9/Angkot+Racing+By+%28Hari+Sadewo-BMI%29.bussidvehicle",
+         "link_livery": "https://www.mediafire.com/file/892fhzgjk3gwyez/ANGKOT_Orange.png/file"
+      }  ,
+ 	{
+         "title": "Mod Angkot Ambulance",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1747.jpg",
+         "link_mods": "https://download2388.mediafire.com/dh5jayr7sargN9cjNT_lCCl7KIuXpIzjD0r8-nQbMxKh36bymkw10-b_sBAO8vZspBnZdlzas_MAwbB4hQSGO6NQ6rZrOEhtO1nSXoLz1gLTD88IZ2pXJ6v9DzGZwSksZ7pGFqRbgjHObY2bS2n4hO7l1mTmSr1weJSG9ijXpzEKMQ/rhe3bz7bo2syf0f/CARRY+BY+DSP.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/bdai0ljnne6b3ay/CARRY_ambulance_livery.png/file"
+      }  ,
+ 	{
+         "title": "Mod Angkot Doodle Art",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1745.jpg",
+         "link_mods": "https://download2389.mediafire.com/vbiig9wj1aagQM8BeNzhHq9Y2B6enwyCKg5FniCAlc0RlDK9MbbkwT7Sl20t0PGQXiFOVwBdEA8l-54gdNruNe1ueZlLRTLuusu2wxz8_GCodmHUm-LPsjVqq3OzT5uxu2EKPXrXtgZWY_fwXIiMiSJ69ZBB9MMwwgPQ_u15vt3ElA/qddmybchkm32q8q/Angkot+Standard+Lambodoor.bussidvehicle",
+         "link_livery": "https://www.mediafire.com/file/me1g7wj2kvvyhxr/ANGKOT_PUTIH_2.png/file"
+      }  ,
+ 	{
+         "title": "Mod Angkot racing full strobo Modif",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1749.jpg",
+         "link_mods": "https://download2389.mediafire.com/gt74arqr6etg74N5mfSi0FcOKIkkFTCR62_bcBNWwPGUekPzaJxFgP9_l1P0TW3Yw2ch8wBWiWq234dOUKi0RMz-718r0BRt2nJ4yiNEyCQzRiTV7iyVXVzhm-AOAXNYlb4pJ-3UdckbOo8ICv9b7j4HxPUJASIWooxcwVXyoUYOzA/rg3yvh71n9vjedl/Angkot_Modif_V2_HSD.bussidvehicle",
+         "link_livery": "https://www.mediafire.com/file/2r749cyya4ox7f3/Angkot_livery_1.png/file"
+      }  ,
+ 	{
+         "title": "Mod Bussid Angkot Nano Nano",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1748-2.jpg",
+         "link_mods": "https://download2351.mediafire.com/k0wrbdf9fg4g_rs7xy1Qmu5Iu0TJxwQEtMTL0dirrTcXE3PJuFYAxppz34rZBvrKMd4T__gS4AUKr3LkSWPkvfxcfkoK01_pvgTeKG7QflVoFgSFGTHgflutSjSOgCCMPxvuv45k3_eSAJGKlWRpTw-yJOSdbN8Di4z8nlKL_XOtPw/ext6mcrtzefknbu/Angkot+Nano+Nano.bussidmod",
+         "link_livery": ""
+      }  ,
+ 	{
+         "title": "Mod Rasta Mania racing",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1750-1.jpg",
+         "link_mods": "https://download2389.mediafire.com/5bpa7r4gkgegNY8OODMDotwIEvzbumKcZuhO_RX0014qAH-uOLaU3e3kJyckHAEaM8_inqMW4jwfNYYJ-RxNPyP95t0rbSIWJrjRWZHxLxFzy65TYJEBewCke9wudCZCgrsuhxF8Zw31jLdNdTbU8ZIhpFLlDtKAZcQlesdgMqoipg/fcn1kadudf6l1yg/Angkot+Modif+V2+HSD.bussidvehicle",
+         "link_livery": "https://www.mediafire.com/file/befx96iskyulf0x/Livery_Rasta_by_Saayana_Games.png/file"
+      }  ,
+ 	{
+         "title": "Mod Angkot Racing Drag",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1751.jpg",
+         "link_mods": "https://download2267.mediafire.com/u14xucnutskgz7q5ybgWsI4ORPwSFuACbx8Op4hqLavKDvmGu4W6wl-cITXQbdUXpVilkznxe4TJnwHpQeuBCuCjK6TcjOoJgOgHgpNJlIK_qlmuuuj0aFx7dpdlAJeSdFfSr4X-7Rj2zBdm7ghGXTQYhi0RXPA7tD0Auo078j4vGw/xigduvaet7b2h43/ANGKOT+1.bussidvehicle",
+         "link_livery": "null"
+      }  ,
+ 	{
+         "title": "Mod Angkot Daihatsu Cilamaya",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/338.jpg",
+         "link_mods": "https://download2269.mediafire.com/6a9z105yydlg7x-GiDpzW0ufZI9u0KdEg2prbs5GKjR5FWBlkDfh9EVpHhoz2dQMKfAA79jEJgwqFOEKQ2QZbYF5KFbQRh4Hw0urXPZafl3Y5_v7xuaDKS2nBSZ_bO3iO042hKb12QMXCTi7jpzaqtjzDnU8XYa6DpAHaZsAN3a31w/efzu44b03h4v4oz/DAIHATSU.bussidmod",
+         "link_livery": "null"
+      }  ,
+ 	{
+         "title": "Mod Angkot Sempati Star",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3853.jpg",
+         "link_mods": "https://download2271.mediafire.com/5qmijypk823g-AHeaq4K-zCIJeVlIx7ayg5qCTqsOBEwYPKY-PxtoaycV7A4XvjlsQkDgnzrS77BGWK01tQ7AvhBIE5kuCg8A3S4JrIPX2r-HNQ_vZEbw4sZWsvIeg2lp4yaCCWpE6H6HwdhYm9LBtufGwTYaQoqEX5ZAllU1AoPuTY/yo2ct0ufijfkn93/MOD+ISUZU+ELF+V2+BY+AZUMODS.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/umcceln74jwj1bn/Livery_Elf_sempati_star_By._Warung_Game.png/file"
+      }  ,
+ 	{
+         "title": "Mod Elf Buhe Jaya",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1755.jpg",
+         "link_mods": "https://download2389.mediafire.com/v1nm9jnrbmxg2kAq0wzljipDGOh-M9slfk4neVqDAAPUczvzNFfj-GG44zym35BhqUA1FBQuOheSwjNGoEoK-sE-oe-VWBOKLqnBofOa1RItK1U2NzwVgFycDIV-aCOMiLxr_h4JXKy36Kl4nqwIkC4IvGy94fb7OQRzxaGK6Gy_lLg/jddx8155950kayk/ELF+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/mbbuenivmbom2xr/BUHE_JAYA_BY_HANHAN_GAMING.png/file"
+      }  ,
+ 	{
+         "title": "Angkot Racing Pink Hello Kitty Grand Max",
+         "image": "https://media.thelastsurvivors.org/2022/12/Angkot-Racing-Pink-Hello-Kitty.webp",
+         "link_mods": "https://download2303.mediafire.com/7fzztserh4gg7bOtg5DGEzIrh3o63X8ERBsQN7GFRAn_4MT-OLh1RUf08DkuhPEAo_HLahKWFxZMvBN_R8b_94Bfe1DxEXhWGcgFJ6YxjclHAb9D8s_a5JyB3cKuxVCeW7UHk9vWNltemr1FoIr92wCIVzpMFFoLaZNwU1fmjELUaAI/n06oflhmugapspe/Angkot+Racing+By+%28Hari+Sadewo-BMI%29.rar",
+         "link_livery": "null"
+      }  ,
+ 	{
+         "title": "Angkot Carry Biasa by DSP",
+         "image": "https://media.thelastsurvivors.org/2022/12/Angkot-Carry-Biasa-by-DSP.webp",
+         "link_mods": "https://www.mediafire.com/file/w69rp7l06mdc0yo/CARRY+BY+DSP.bussidmod/file",
+         "link_livery": "null"
+      } 
+   ]
+}
