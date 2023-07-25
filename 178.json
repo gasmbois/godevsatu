@@ -1,0 +1,123 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Super High Decker Avante",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1620.jpg",
+         "link_mods": "https://download2390.mediafire.com/iqmeweytwszgUp1Wrcr20oEdJiJ4F9UlGqN7FrRa3K6jNP-uRene6UhtN63bYelUtl_D5JWwTlt7Fgp0odg8LN043AXrR8x-HHaeOqZBVziUktn2Jq_SOOKsmyNAyj29r7vcoRGKsd2h1I-rYTw_fCbLCzFXfXo8CYS5wPO_WtZx1Oo/yjkvhpvn9rnoljf/AVANTE.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/g8aetbml8xras10/Avante_SHD_STJ_DRAKA_By_Jeffry_Bussid.png/file"
+      } ,
+	{
+         "title": "Mod Bus Dream Coach",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1621.jpg",
+         "link_mods": "https://download2365.mediafire.com/psgkc3pv4bvgZoXzWjc7p8tgcaVABrmho48eeKNORkTmP9-TYASHDjZQFuy3QwYVgbWhwIN6av6zeS9rPmHFRWAbw2kzmFVi19bR8V61_0ntVfbCtDOgzfNfERd-opX9U8Kn0OZZ_D0E20VqXbPSuLas6T7T_vIKaXwRSDwcIPvMQkU/o16qljrc3a92vp1/DREAM+COACH.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/v1svxidgzl3asmv/STJ_Draka_Dream_Coach_by_Blahbloh.png/file"
+      }  ,
+	{
+         "title": "Mod Jetbus 2 Hino RK",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1622.jpg",
+         "link_mods": "https://download2338.mediafire.com/0szzh38qh4kgEhDtqtnD2aX2KSc_BfwCdXe5SuRZomUg3zMjA29YvDMLk-klMWuSso2dZuEe4Et3U14L15i8hU9AHkWSvFmH24XhA3Y4m5FYIDtBGmkVjhb-Soc6-uCoBNU7Z1X1d3DbmZjhSBiRRRCq38MHA0PVcF8Cd1IQobAMdmE/q1pba2h7c3f9cs1/JB2+HINO+RK.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/s5d8vdv96sqggce/IGUAZU_V.10_FREE_USER.png/file"
+      }  ,
+	{
+         "title": "Mod Jetbus 2+ SHD Hino RK",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1623.jpg",
+         "link_mods": "https://download2280.mediafire.com/fskg1e71nhjgek8Me3EP1uGm2iirfYT5gGAgsfxKifbo-BtCdMrKP8xMYU-xcXMZTEsyTCgqK2vrTvLgP0G1fd3XHLmCswutRCaZkDFK0pl2vNno7ZlYgWEWNU8vyRPPzPqOf0UOVzxAuHyNynemdY78q2-poKfw5O6NTl4Kqxc04LA/1ps9e7vbmu17a0t/JB2%2B+SHD+HINO+RK.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/tkur3vgf7i3jogw/STJ_Iguazu_SHD_by_Blahbloh.png/file"
+      }  ,
+	{
+         "title": "Mod Jetbus 3 MHD Scania",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1624.jpg",
+         "link_mods": "https://download2391.mediafire.com/hs42kcq4n0ugkZUgaCJPllK1Th4_py6YMiT6TA1NDNuH-mYV1u5WinKhRowtThy_86kttdKbnZL_d9UlP2s9hcEP1Bi5v2qMoLpY1BTc5kWp86W3M3b1fKrCryOmAyaajDxJjSjPsQRt_9ZCzTClDAIsXGg51GuLQ5BQaA8VvWeOjUs/9bpbwtegpf1n2t7/jb3+mhd+scaniaHANA+HANIFAH.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/n6moxfyl3o0ho3d/Stj-070-CULLEN%25282%2529.png/file"
+      }  ,
+	{
+         "title": "Mod Jetbus 3+ Hino RK",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1626.jpg",
+         "link_mods": "https://download2338.mediafire.com/fj0mcxhrsvigLX5tjNwxwzr5gN6YjKzG4R7-wK8BCwJ-EhDQIk5dbal7t6IB9U9ImN-9chcK9nNt4BSncsLc1DKuxtVRNTuivgM5iYK8FL9-qMW9OKYZT_YIcZ0TbskTu_igg43k37ALCxlhK1eyymFUS1OaFgP8Z6svzxPrLFZM3xk/anrycqz1twin7na/JB3%2B+HINO+RK.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/99mt1f60yzjsn6e/SHANKARA_BONEK_STJ_JB3_HINO_RK_BY_GARASITUBE.png/file"
+      }  ,
+	{
+         "title": "Mod Jetbus 3+ Scania K360",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1627.jpg",
+         "link_mods": "https://download2261.mediafire.com/i76mo62stn6gTYD0LOpl23bIXGmCLf0I6kFfTMa_0eGOVTTUOOLGYVOaJkcf-2MguMDAcrWuUoNNc1HibQpl25W36e5MpGlD_A3jh8l5Qm2NLsGpUyCIDTp9sFOBILI_7cgjvaYKDt0L1uHArZjQjRZ8jncqRR9zQw6RXrP0PRkTxKg/vm4dqwnpxfqelfp/JB3%2B+SCANIA+K360.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/zi1fytmcq3h1ecg/JENNA_STJ_071_NON_BONEKA_JB3_SCANIA_K_360_IB_GEN2_BY_GARASI_TUBE.png/file"
+      }  ,
+	{
+         "title": "Mod Jetbus 3+ SHD Scania Non Facelift",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1628.jpg",
+         "link_mods": "https://download2268.mediafire.com/0a8119eoykxgw57aT_t9lxTmMTsemubdE0q5rh_Mot1Lak7FHzYaJifi0TpgZk9adfCAWsjNIPsmBdfBsABaIYV9KPyB3goZGH7hHzArrlu-zkoAmKwnO9qbESwDV0FAhEI2zcQB7o4BQefHTyfaDe16HHIdnNc2e5-NzraDDGR_m0U/6zh8le9uq2vlldp/JB3%2B+SCANIA+NON+FACELIFT.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/od330ij70wj56yt/STJ_RHUDOUR_MODJB3%252B_LIVBYSIR.png/file"
+      }  ,
+	{
+         "title": "Mod JB3+ SHD Hino RK",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1625.jpg",
+         "link_mods": "https://download2325.mediafire.com/i5440hpro80gWSEotiUHztlInfRh1G4-SVyXjtxDJatBR2XxCtRIMZGSnHwXCAxse_p0Jj1TsISDYPALBFj_EGiamPAmxiNZMe2dA-lPUEgkb1J89J5v8-Khc_e71tFes68M4MhNxCCbxhrkeSLIZWy_Mmg87JEAfrx6fo8X3dpF290/z5o6k8e4cg0tl4d/JB3%2B+SHD+HINO+RK.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/lxmtb2sqosixyqn/JB3_HINO_PINTU_TENGAH_-_STJ_VIOLA.png/file"
+      }  ,
+	{
+         "title": "Mod JB3+ SHD Non Facelift ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3796.jpg",
+         "link_mods": "https://download2391.mediafire.com/sglzuqi8xvfgexmfPq_vXAoLhbVPc1cp0GPjAeFvsN-nya-omJV5z-YGJS7KPyy2OSJWrnOz3P-xI0CVHL6WLKXL9W32oupm5W3EzFIU-isBqW6469-hV1b2zZGIo6PNEYG2UD9OPlKt-Bk3v4dRqR1xwo_FQ6eVpDwPFIm318mjAe4/9vv5k3cdfsxc25y/JB3%2B+SHD+NON+FACELIFT.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/rxctdcmmxjoyb2h/Libery_Black_pink_Hino_As__Fm_by_Nb_livery_%2526_Cah_Ndoreng_%25281%2529.png/file"
+      }  ,
+	{
+         "title": "Mod Jetbus 3+ Tronton Volvo B11R",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3797.jpg",
+         "link_mods": "https://download2392.mediafire.com/9qfc2qjt575gcef--qvInRT7FNThm6QDOEZsSX16fZMpROyosA6qUQS1M1W6XJ18Ii-L_uCkY8oHtY-hkFBBh4ejDhZmm8toMoBlbODj5yinV4YG46_6lWTwaIo-TI9t_LJthXApZKDj2NdnEj13CR6sNdvz_oo8bfelRFOSjMaSNDc/it9l5288rhz77xz/JB3%2B+TRONTON+VOLVO+B11R.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/m06o3ve66fekaue/STJ_ARVOOT.png/file"
+      }  ,
+	{
+         "title": "Mod Jetbus 3+ Ultra High Decker ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1631.jpg",
+         "link_mods": "https://download2389.mediafire.com/1inycsy1b2wgLhdOKeM6KBHfWLq9r2lBtVjMgO2T4RZatjgWgyorFrg0Kq8jkd4d-tmVX7keSqwchoYukQ5IumPpGar1_TB4QuV-VSWKRSRA08bs9cII4grWe16Vmvnn4sEMCAj_exnovL7JMYAshP3dQDCPUm87CVr-byBN3Kdl-us/lffqbgt6vd1xxrx/JB3%2B+UHD.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/frotgvk0l57qs7v/RUBYA_098_BONEKA_NEW_STIKER_JB3_UH_MH_BY_GARASITUBE.png/file"
+      }  ,
+	{
+         "title": "Mod Ultra High Decker",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1632.jpg",
+         "link_mods": "https://download2339.mediafire.com/utim79cgcmtg-sgbktY1HK_DFNeNxWYvx4BxYOdFxbGjzXAdasThb8Z8ttAQWs-rQ2Np-LdsR6CXL9P_3e5B33wknJMzzptOvShCymIXOmWrDISSb_Qb2X0uKY7z1AeCa82KBd5T1Q1rcdPKIUpi5d_Byq-hNZGBxh5EL-NuNUA95Ao/n0df5h0r4dpnxy9/UHD.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/vml9dx4zy19whmb/STJ_Anno_UHD_Mercy_Blahbloh.png/file"
+      } 
+   ]
+}
