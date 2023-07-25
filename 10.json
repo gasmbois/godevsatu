@@ -1,0 +1,123 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Truck Fuso Muatan Kayu Full Anim Terbaru",
+         "image": "https://gameitu.com/wp-content/uploads/2022/03/1.-Truck-Fuso-Muatan-Kayu-Full-Anim-Terbaru.jpg",
+         "link_mods": "https://download2276.mediafire.com/c4vepbqws7ygNQOsL9ESAq2d8zQ0mieGRguwwvFzQODX9k3LgsjG7U89PHJqmS1hJfT4jDE8BqUoRAQUDoFyt22XbRZOA-u6yAVLgNaZK63EpEbx2M1kMEYj6eHauorzpdtafV2xzxZwB0CAND0CKkQs7HFKJH7ZWGb4T4shQevo2fQ/hkwvb88s9icir4b/fuso+tr+cvt.bussidvehicle",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Fuso New Figher C11 Full Anim",
+         "image": "https://gameitu.com/wp-content/uploads/2022/03/2.-Truck-Fuso-New-Figher-C11-Full-Anim.jpg",
+         "link_mods": "https://download2390.mediafire.com/ids56f8v5m5g6qto5FrHq-r-H2ZNGJ4O4U9pjiuQwvnd4ceRBcop_m9qm93yLg4LDgUI_riemeXBXPdyEwjV10CsfyOkKphPWIBed7Bpckcy-m7rgwgZqyKEcx4Df8xXKroHcgxDpOlHsFicTp75q8QknpUMMDN2AJR3OVwPuBR2Uxs/nzns5dcjjlk6w9e/5.+FUSO+NEW+FIGHTER+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2391.mediafire.com/qfjmc2ip1z5gn6D-jer7bJcFHyqkusU-pIEqU4uPh1uXtLjE8hggetekgDpOCtcCa4-3lThxD-QSeqLy2mzzB_h3lr8Z_c42xZ3oSCrENhaiwXxKj72KLHGLAjF5wgYOfmop_4UE8H5VjtIgYo7Dt55zBchByhLYX8lQCHwJBs1qjNo/cucv32wyf25h195/5.+c11+fuso+new+fighter+62.png"
+      } , 
+	{
+         "title": "Hino Provia Box Kontainer Livery Wayang Full Variasi",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/775.jpg",
+         "link_mods": "https://download2392.mediafire.com/muzo09h6oecgeQGey1XGPG5j-AFEXmuN2AQtrYw3i_vN83gWiOpa9XhfPvHjrTyQVk_YYiChXA1hHVQNM5NjIbHgf-nI2CDJ_e5xa-Js3aIqFPNaySWBHjVyIsbXyWkRNDCX45prCYCWP1xpJgzm80LbbvmAauvQAkTGSzynazdfNX0/ix15fbise8j3eui/Truck+Hino+Profia+Box.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Mod Truck Mercedes Benz Actros Full Variasi",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1700.jpg",
+         "link_mods": "https://download2390.mediafire.com/kpa8k5awm7xgbOmOupDmoMP4suXcnHwAEORjYm3ayonlC81Pr_6iNU2jAOZ1_QP-2HKJFQLdKxo2s6CkhXYHriov7-tC6a4J67R3v3accSa3kEuchY5_qJyIKHTNWBb3ztR6L5hr2fmb7Jiarf9atbiBeo-Y-0zogqya2JmWkC1pjho/5tjpbwffm6vwbgo/%28Tameng%29+Truck+Mercy+Actross+V2+by+RSM.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/3dt1d82tr38bbky/Castrol_Actross_V2_RSM_by_Putra_DMK.png/file"
+      } , 
+	{
+         "title": "Truck Hino 500 BUDESIGN Full Anim",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-BUDESIGN-Full-Anim.webp",
+         "link_mods": "https://www.mediafire.com/file/4ltzerk0uyc4rfb/hino_500_trailer_new.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/a11wl2axm2vbsh3/Livery%20Wahyu%20Abadi%202%20Dhe%20Adi.png"
+      } , 
+	{
+         "title": "Trailer Hino 700 Chassis Flat",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700-Chassis.webp",
+         "link_mods": "https://www.mediafire.com/file/rkkzqqbdhvxgfoh/Hino_700_Flat_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/h01i4av7p4mcctz/Putih.png"
+      } , 
+	{
+         "title": "Trailer Hino 700 Tangki Tanker",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Hino-700-Tangki-Tanker.webp",
+         "link_mods": "https://www.mediafire.com/file/r21d09ovb4wvqu7/Hino_700_Tangki_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/3bb575e54bvkeb3/Hijo.png"
+      } , 
+	{
+         "title": "Kontainer BUSSID Official Bisa Belok",
+         "image": "https://media.thelastsurvivors.org/2022/10/Kontainer-BUSSID-Official-Bisa-Belok.webp",
+         "link_mods": "https://download2265.mediafire.com/gika6vh9h1kgccKnmuwz8CuE3oGmZ5sFLnXDgZSU6tTA9XtlNjb49RgvVXcSF7KQUjCc_gbyW8uAEvK-AD5LNHTLF5Ovvf5Q6I1wHh4YzBpL9p3ZkYDGHyN19H1VSbwI2Pr-yZY-qMCWCCJQb3zyGERkBkqCSCN21u77VEi1H62hUgM/xbvzubqg72fb0so/Mod+Kontainer+Bussid+Official.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Trailer Original BUSSID Bisa Belok",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Trailer-Original-BUSSID-Bisa-Belok.webp",
+         "link_mods": "https://download2279.mediafire.com/3dtxnv7gx1jgKgAvKL3Hn9yWBvSVGvG4AU4OD7GkFiiLvxergyf8gbbGGgcOdC4IHgnCNssPy3ttbJUIMO72QeoLhNTlo0dGTQMA2MAbjZl4nc5dIRu5iX6t1R7YXSoaHK9icnp5UqP_B0gMTaLawvfFUkn1vpG-O5lAcrh-c6uwVEw/b7c5smx5sbiadep/Mod+Truck+Trailer+Original+Bussid.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Truck Hino 500 FG Trailer Maersk",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Hino-500-FG-Trailer-Maersk.webp",
+         "link_mods": "https://download2346.mediafire.com/qs39h082iungaH10a-Qs_q7wFYFKAG3hoQewUEqZ7VF3Tc2EGRHzEfj44Bu5Ja22jKXfd9c77ODUaJPcqE70k9LJvnTrpGWG8mJfzT45ER3KZEEQxIXkuohozfyAGoJ1rZbo_W5OWkRPdSKe3iAwmsTkLLBsHWQ3YZHK5VBU9r-iSHg/i9zyzqcofvoh1l1/Hino+500+FG+Trailer+Maersk.bussidmod",
+         "link_livery": "null"
+      } , 
+	{
+         "title": "Trailer Fuso Gandeng",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Fuso-Gandeng.webp",
+         "link_mods": "https://www.mediafire.com/view/44zhr28z8hwqbpy/TEMPE%20FUSO%20FN%20GANDENG.png",
+         "link_livery": "https://www.mediafire.com/view/44zhr28z8hwqbpy/TEMPE%20FUSO%20FN%20GANDENG.png"
+      } , 
+	{
+         "title": "Mod Trailer Volv FMX",
+         "image": "https://media.thelastsurvivors.org/2022/10/Mod-Trailer-Volv-FMX.webp",
+         "link_mods": "https://www.mediafire.com/file/ewu0azzntxkszlw/Volvo_FMX_Triler_Beton_ad_iskn.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/70bh74jkazahb6i/TEMPE%20VOLVO%20FMX%20BETON.png"
+      } , 
+	{
+         "title": "Trailer SCANIA R580 Longline Double Peti Kemas",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-SCANIA-R580-Longline-Double-Peti-Kemas.webp",
+         "link_mods": "https://www.mediafire.com/file/3z7c9if4m0f6bwk/Scania_R580_Longline_Trailer.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/moztiy14evi9u03/r580%20template%20livery.png"
+      } 
+   ]
+}
