@@ -1,0 +1,129 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Bussid Truck Hino Trailer Kontainer Full Anim",
+         "image": "https://modbussidterbaru.com/truck-hino-trailer-kontainer-full-anim/",
+         "link_mods": "https://www.mediafire.com/file/07daqjmzxxb3cr3/HINO_TRAILER_SHARE_BY_JODS_TV.zip/file",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truck Hino Trailer Full Aksesoris + Muatan Berat Crane",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2022/05/5.-Photo_220523024957.jpeg",
+         "link_mods": "https://download2275.mediafire.com/wpns8ajo9zjgEJZS8Nb0C72rC8mes8hGRd3EoFvcSUXWJWW0w6Co8uyszTp02oix1khU8SI-ZLo9r8Mpjt9H4Lb_MmZwYWMPEpti3lDDjx-kSaechkgBCOuJcYq1m1M0Lbj_xNyh9OXVNnnY83Gc-S9BcTspTYZAVSldEETD1OPbS4U/mrc8fxqnfe7exrb/5+include+livery+MOD+BUSSID+Truck+Hino+Trailer+Pencuri+Traffic+by+Budesign.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truck Hino 500 Trailer Modifikasi Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/07/Screenshot_2021-07-11-10-52-28-91_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2389.mediafire.com/9lu5x5qccj9ghGAHRu7M5wy6PnSpPCSpS5gXuZLG96mOQ-INovq-au_uOauH96xHZ-K8njEjpNo1NRbJnDkeOcS0mzvN_y5uWJdrjjTqJATOCFRMV0eSWmJMWo2Zp4VBC-2HDG4e7U8ILPmKqf-PQjOtVz4c1rz9x0fo3rMyusZSQwk/j5aznx69p3bptx1/3.+HINO+500+TRAILER.bussidmod",
+         "link_livery": "https://download2393.mediafire.com/sed5tgcwofpgpkMt13dCAdRyOE6wonvCeelHwaGFm13Ddf3jUvbfK_Uy9RZxh2qZCUNyaq0nEyvYyn-_9QKoRG1q5g96h4COsHSPhgpEduxiOBd08HArxwXuwNWiSgq67EP6V8oJME_cl8qF8EYm20d5K6TgZQEF4o1t6jkFs0yCjBs/l12zo05gpkie2ln/3.+LIVERY+HINO+AD+ISKN.png"
+      } ,
+	 {
+         "title": "Truck Hino Trailer Siba Surya Terpal 3D Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/07/Screenshot_2021-07-14-20-04-29-26_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download1323.mediafire.com/ujuxajzbe8lgcOdV8twEvOH7QqD3zrNuZTDYz5AtWkmw0CIqJzIAeAkGum3oWuhciXffxYLWdMQquhJVlgMLyA0tITh_mSSx4xNSSjBOJS6I0vnMVMaMrzxBe02YcoyPMikWAMM6h1jkiEZ7S1xJbxVc8DnUEETDKD_oi8qcQT2HSro/1iuws1wmhfepf6h/HINO+TRAILER+SIBA+SURYA+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truck Trailer Super Panjang Muatan Alat Berat",
+         "image": "https://modbussidterbaru.com/truck-trailer-super-panjang-muatan-alat-berat/",
+         "link_mods": "https://www.mediafire.com/file/9kdycp0esbjapg7/TRAILER+OVERSIZE.bussidmod/file",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truck Hino 700 Trailer Logistic",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/02/mod-bussid-truck-hino-700-trailer.jpg",
+         "link_mods": "https://www.mediafire.com/file/zc48h7ndbnv7r8e/Hino700_Trailer_Logistic_By_Bonfire_png%28ASB_Team%29.rar",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truck Hino Muatan Mobil Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/07/Screenshot_2021-07-11-10-53-37-62_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2391.mediafire.com/vxyc5prv9aqg818T1VWWwmdoC_6INfvDFx3xWzymqDUXnSBOEgTDoIHpcmaxRpr0z4NqH_UBImdG7XJQUdGr6UKG0ncNkSEYn4bAUy8TxODwGF5VjGu-yLFUOZdh-uHJkYmQCVIv_mAova6SB5GR9QDdO6n_8tAGbYXudCmjLK-tdqM/6scnlc9xso432me/2.+HINO+TRAILER+MUATAN+MOBIL.bussidmod",
+         "link_livery": "https://download2285.mediafire.com/sdu38z72drcgn0wvvlPI4OWCoodjOixG1wiLDbNUUM5IqOLDUFXfgCNpL-s1HtsBUFes8uc9BEPySzvzONmwbtRHHbjsqaee0aL56In-K-e3i2rnQbkVZ4fLThiMaLJB3Y1-Fq3MlPdwfZEByyXNvDJ9mUw3Rxonbh8g9Zne58GJXyo/vykmskfyxzx1mww/2.+hino+pely.png"
+      } ,
+	 {
+         "title": "Truck Hino 500 BUDESIGN Full Anim",
+         "image": "https://media.thelastsurvivors.org/2022/10/Truck-Hino-500-BUDESIGN-Full-Anim.webp",
+         "link_mods": "https://www.mediafire.com/file/4ltzerk0uyc4rfb/hino_500_trailer_new.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/a11wl2axm2vbsh3/Livery%20Wahyu%20Abadi%202%20Dhe%20Adi.png"
+      } ,
+	 {
+         "title": "Trailer Hino 700 Chassis Flat",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700-Chassis.webp",
+         "link_mods": "https://www.mediafire.com/file/rkkzqqbdhvxgfoh/Hino_700_Flat_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/08c4ezmbx8wj7o3/Hijo.png"
+      } ,
+	 {
+         "title": "Trailer Hino 700 Tangki Tanker",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Hino-700-Tangki-Tanker.webp",
+         "link_mods": "https://www.mediafire.com/file/r21d09ovb4wvqu7/Hino_700_Tangki_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/v0iwbsvke6ykiqv/Putih.png"
+      } ,
+	 {
+         "title": "Trailer Hino Dual Face Tangki Pertamina",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Hino-Dual-Face-Tangki-Pertamina.webp",
+         "link_mods": "https://download2266.mediafire.com/vcftcutqsseg7mq4HqGogKrlHYr8PdrnJkzbyEfHBZ5x91KVWDv6g_6dKeZ1nqmc3N6WKd2XeFYkk7cu8gCZkerFjPPPC5wbdA5lTLwVFF57sqzgqdRBPGqc7jSU2-G5QuqsAogc2oLTP3XKf0WBLP9kOfUVlqE6xCQ0b7B3dB6eQAk/hudgzwttuv87jk3/Trailer+Hino+Dual+Face+Tangki.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truck Hino 500 FG Trailer Maersk",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Hino-500-FG-Trailer-Maersk.webp",
+         "link_mods": "https://download2346.mediafire.com/z3f9zqtlt8sgE-7cJGfKpx1zhYBvxYvNna3fzuYCtJ-LCVsBAz-lGuCVy8La9-g_T9kCpDd8am0lSm_gK6smip0y1WoHK1Gqi-gEd2wRfoy1-p2ObEZpL7okSCodHZvSKM-e1VyRVgtPOEL-nSSbf6tA1qKPqDLmUk_9fCXC1dH_j_o/i9zyzqcofvoh1l1/Hino+500+FG+Trailer+Maersk.bussidmod",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Trailer Fuso Gandeng",
+         "image": "https://media.thelastsurvivors.org/2022/10/Trailer-Fuso-Gandeng.webp",
+         "link_mods": "https://www.mediafire.com/file/sxw9l2y8hd41skj/FUSO_GANDENG_V1_ad_iskn.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/2kxwasw1qvzxn57/AO%20FUSO%20FN%20GANDENG.png"
+      } ,
+	 {
+         "title": "Mod Trailer Hino 700 Peti Kemas",
+         "image": "https://media.thelastsurvivors.org/2022/10/Hino-700-Peti-Kemas-Box.webp",
+         "link_mods": "https://www.mediafire.com/file/bvetqbrrpy6pgb6/Hino_700_Peti_Kemas_MAH_Channel.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/view/nvs2phn0lvhbp09/Hijo.png"
+      } 
+   ]
+}
