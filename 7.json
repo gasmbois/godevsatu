@@ -1,0 +1,105 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Bussid Full Strobo dan Aksesoris JB3",
+         "image": "https://i0.wp.com/www.ardnat.com/wp-content/uploads/2023/04/mod-bussid-full-strobo-dan-aksesoris.jpg?resize=768%2C355&ssl=1",
+         "link_mods": "https://download2389.mediafire.com/wc7ddp72pbvgAbL7ANymJymuxnQh75FH4E1J-IesWMgunQsFNxM-oR_SZxONhaJzIOp6cZ3MwUZi-I7phuACjNPNhedSrPhN6BGpqOuV2GrEPgDiQV2zLSNi4NkbpE792L9U6X8JXKyBMAlAJjGebyel3EAPbRUAFysrWmTU9jw_/bwrrhdpk91zkohw/bus+jb3+pariwisata.bussidmod",
+         "link_livery": "https://download2294.mediafire.com/bboq7vihl0kgxnxWg8UTp91-9TlFeTZcmvPtnw65YLwJBPA78Vy_LZTZtJ8O8rHBN0kXFI92PKuHjkP4s8PcC0trTF2D1LyHPnTgy07lb_FEk-x6ZEulTNPGQ8H8PL-LKfi12qam20sqWvYUkd_W-1HsSc0BIt-J-4B6rlE-bP4u/sgco14bv7jmc10n/Atiga+Trans+JB3%2B+cvt+RSM+by+Blahbloh.png"
+      } ,
+	{
+         "title": "Mod Bussid Full Strobo dan Aksesoris Ceper PO Haryanto",
+         "image": "https://i0.wp.com/www.ardnat.com/wp-content/uploads/2023/04/mod-bussid-full-strobo-dan-aksesoris-ceper.jpg?w=700&ssl=1",
+         "link_mods": "https://download2389.mediafire.com/0ev3u4j2rqdgi_cmqT1jWafKQJe81LzMXJRgh4yirJrB2oZMqCLK4PlPIvNuYEz4DsQZt-UUiQ-unlF_kIKoBjWAzVX7iwvktCnjsgYkNlLAFn6uV-hP4mBDN8Hi00VYiAEDD1-py-oO9DvKiK-nFwTbTkfGUi0ZpUHd2CXyLZkK/yovid1roqnxwjm9/1.+JB2%2B+HINO+RK8+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://download2260.mediafire.com/futx7xgtjnsgllTnosTFMP9_0EXoUvM4EMwRDDv3Efm0fgPazbsLebKur8_HCW3ZLa4B7uIPktnBX6BVlyLOdR4kUxFyOuyHN-ShqxdCRSfQ1fVKZDCD_9w2Pr0_FVJh79LDYbTudbrUdzKA5pWlEVCdTMWAJEOQC2lwm0OFLvkj/r2womwfdjddb67y/1.+Hr+023+Sensation+JB2+by+Blahbloh.png"
+      } ,
+	{
+         "title": "Mod Bussid Full Strobo dan Led JB3",
+         "image": "https://i0.wp.com/www.ardnat.com/wp-content/uploads/2023/04/mod-bussid-full-strobo-dan-led.jpg?resize=768%2C355&ssl=1",
+         "link_mods": "https://download2263.mediafire.com/pfat1ynipyqgsQhQFSri-VGz74r2PBvZ6fUz8LvvnO9t2WfFZQkKMF4s5jQtQBU_rRjlJZbUPU5fz_R_OrI8R-5OMfZmx5PJWTXsY6BqobxHKPh08BRvx8iIWYOsJ68mUTU4Jt-1Tc0bJT9SDt-1RVoEuRd-6v6wWsxJeEQmtt6T/ljbnn9tni6fdl5y/JMC+HDD+JB3%2BDop.bussidmod",
+         "link_livery": "https://download2390.mediafire.com/gvtobzd3vedgxrJmO0vpPyjKgawavyPm54PJQzBPExQoMheVK4ekwMxKCqh72hU9O90iKREyWPGcEuP2Ak9Zwb2_2ZFbr-NoCfcLOGVn7yMbBWOEN4KGs1YQMwl3xMycDRLuWJcoUbmQzBf5sVne6GA4uOzPVsYJi9_G_tzhU-vM/nr9pj9l8tlgsfzc/akas+nr+jb3+rk+8+jmc-picsay.png"
+      } ,
+	{
+         "title": "Mod Bussid Full Strobo dan Lampu Kolong JB2+ SHD PO. Haryanto La Samba",
+         "image": "https://i0.wp.com/www.ardnat.com/wp-content/uploads/2023/04/Mod-Bussid-Full-Strobo-dan-Lampu-Kolong.jpg?resize=768%2C364&ssl=1",
+         "link_mods": "https://download2281.mediafire.com/xby3edqedtsgoTtYrDdiIkLHzWfsNHRqZstMu30nFkF1xslYLL1s1SdU8JcDPM8SdwopnMU8vzKn4ZyXCh8cY4I-VYcsPQMdfEd-qNuZbqaEcjeTfdMSZNw7h4jjFV41FTnBWm070tQEMjdb2lpeCJpmgzpbzoyd45uAtzVdLCRF/163eqfbe3f95gos/Jetbus2%2B+SHD+PO.+Haryanto+La+Samba+Strobo+by+MD+Creation.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mod bussid full strobo dan boneka jb3 Mercedes Benz",
+         "image": "https://i0.wp.com/www.ardnat.com/wp-content/uploads/2023/04/mod-bussid-full-strobo-dan-boneka-jb3-Mercedes-Benz.jpg?w=650&ssl=1",
+         "link_mods": "https://download2391.mediafire.com/c9u9wnlsuapgh_650yPUIGeSf3lYs1N9KN8YQs_KZu-pMOby0UqLiUavyvKPwHtXReMQsBFJRG3WsWU0j7cjv0ZNxrz68BJSc6vexj34Ed9n85yaz20lsEkLE_lo41sfXaD8KI0fgXBM2ZF-JdfqJYhBVlMlXoJ_eCJscAljN0JB/znky7fweih6njvh/2.+BUS+JB3+SHD+SCANIA+FULL+ANIM.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/seo36hc1nbi2j8w/2._STJ_Jenna.png/file"
+      } ,
+	{
+         "title": "Mod Bussid Full Strobo Truk Canter Full Anim dan LED Strobo",
+         "image": "https://i0.wp.com/www.ardnat.com/wp-content/uploads/2023/04/mod-bussid-full-strobo-truk.jpg?w=700&ssl=1",
+         "link_mods": "https://www.mediafire.com/file/ya4y1ev3wss5njj/Canter+Bemper+Fortuner+Livery+Sekar+Taro.rar/file",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Bus Citra Adi Lancar JB3+",
+         "image": "https://digitalpers.id/wp-content/uploads/2023/01/Bus-Citra-Adi-Lancar-JB3.jpg",
+         "link_mods": "https://download2391.mediafire.com/7c62chm5arygKZUHg1kI5M-gu92EYl7pIVLQr0OLj4dm2mQZIxFjdjMJyz1b9OMibaA4DokMTLEuGW1_nbYU-Qn4ygTn_w2mRkahZLci163VrvMwJ9KZeqIwJAdrRhsqkCl9pQdlLb9AfvjqmugxlPmq-Ll191ouyTHoWMvDSbkU/u4r78grl8tjp1z8/5.+JB3%2B+SHD+NON+FACELIFT.bussidmod",
+         "link_livery": "https://download2265.mediafire.com/m3wc6tif1kzg-jpL7uRm5gp4oUxV5AVZT3o7TU6XChIVts02uvvPs4Ziv3C2RVqqd9wBVgVPPydF1kEV8SLIsLdmFsEH5iYbLGeZuT2vxV1mhb163ON1kEPNP1ulHkU72aW686buXZ62tEVgh2mtB1a3TUKVMomcaVc4F8L-MUtW/6fuxnlvsu2xv9v2/5.+CITRA+ADI+LANCAR+JB3+HINO+BY+DIMAS.png"
+      } ,
+	{
+         "title": "Bus Harapan Baru Jetbus 3",
+         "image": "https://digitalpers.id/wp-content/uploads/2023/01/Bus-Harapan-Baru-Jetbus-3.jpg",
+         "link_mods": "https://www.mediafire.com/file/ugjfzoj8tq140mr/6.+JETBUS+3.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/odmkqkuaeert51z/6.+jb3+by+rf+%E2%84%A2%C2%A4.png/file"
+      } ,
+	{
+         "title": "Mod Bussid SHD Jetbus 3+ STJ Biru",
+         "image": "https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-SHD-Jetbus-3-STJ-Biru.jpg",
+         "link_mods": "https://download2389.mediafire.com/fmmtfytwenlgkjr4dcO9t6_91QgakT6-rFlvxdRzBf-woHIf9tgVPiYZ9oUk__UBWYRd7lPfLAoK1zzPU9Gt2evFbZrYBOs2_BEPsz-0sWJ-AP6VNmTRnJQ782rfQIJUPBoWgZC0RHtdQvDZ32n1KOlH0-Iu4rdg6UW4flVFt2hv/r3idfughx4qb91x/JB3%2B+Voyager+RK8+JDM+Dop+Bagasi+Full.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "JB3+ MN RSM Putra Luragung Montel",
+         "image": "https://gameitu.com/wp-content/uploads/2022/03/JB3-MN-RSM-Putra-Luragung-Montel.jpg",
+         "link_mods": "https://www.mediafire.com/file/rx1s05ndfgpoq0x/jetbus3_air_sus_sound_9.bussidmod/file",
+         "link_livery": "https://www.mediafire.com/file/2dohbsuwuh0l6sh/Putra_Luragung_JB3%252B_MN_RSM_by_Blahbloh.png/file"
+      } 
+   ]
+}
