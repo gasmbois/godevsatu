@@ -1,0 +1,105 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Harapan Jaya Avante SDD",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3862.jpg",
+         "link_mods": "https://download2284.mediafire.com/hysvrb0s8wyg2JS0TE2zAsryDVU2TfuevNRZhyqCeiq7mw4s_vOt1jGQImqA2-SrbNt84OoAqnz8DUW8_0evEFcBg8JFsBnkHLgqrLizoS2TOL9MkDBHZj9POGk7PP0XI9IB1rvkELz11Rs4mfWHDPWTUeajybVfWKRxmufnAaHbuEc/859hkjy30df431t/AVANTE+D2%282%29.zip",
+         "link_livery": "null"
+      } ,
+ 	{
+         "title": "Bus Tingkat Nusantara Conqueror",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3863.jpg",
+         "link_mods": "https://download2391.mediafire.com/3xvdjequjl2g5p01oiuhkQ398b7vXVUnqP6YsmzTqFtWE4Ddh3II42sEihARRk84v1dhH0jHG6YgKkJ5KxylkjwIstYfaSgLuobFckio2yAqB8gjQ0tI5E9YQUmzbBauTnDEjrN7fHm04DQ2Z5i8afEFsSmWU3tA7Wm39cEwOxK79Hc/ehcui9liawvd41r/MAN+Conqueror+Nusgem+by+Parzival+Mods+-+Javastech.com.bussidmod",
+         "link_livery": "null"
+      } ,
+ 	{
+         "title": "Super Double Decker Voyager JB3+",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3863.jpg",
+         "link_mods": "https://www.mediafire.com/file/ehcui9liawvd41r/MAN%20Conqueror%20Nusgem%20by%20Parzival%20Mods%20-%20Javastech.com.bussidmod/file",
+         "link_livery": "null"
+      } ,
+ 	{
+         "title": "Jetbus 3+ SDD",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/437.jpg",
+         "link_mods": "https://download2283.mediafire.com/2ci2yrmfkbagFB601c6dW5mY7RLqy0wjV4Qs5iGsWfB0OdM_FFPW6F5nREjDTAFqNwH6KhrnwEDVSMakm_a1Zyw1vp6jsNcqZ8FWVA7-CleNnNxiFItWvaJMTUSqnsCZ75spRF439vDzKb4kepVvVF5p1jG0tOPB4D97eN0rMrDyzT0/1piha6lmxl3k4q2/JB3%2B+SDD+SHARE+BY+JODS+TV%282%29.zip",
+         "link_livery": "null"
+      } ,
+ 	{
+         "title": "Bus Tingkat JB2+ Rosalia Indah",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/381.jpg",
+         "link_mods": "https://download2280.mediafire.com/qe3idajoa3wgTkTAvXGQ3dRL845vtZjy3JQ3ESC9dh_TfozmKeWI9i6di4bPB3CFPCNTFTNbDutsnkgu2TZFGSrSR_s9lSS988DpC8WKQFrXgcb2-pLrEsia08G5y3ifvcu9QA6mNuuH5JSysWtT6mzAnoBdsXAbsgEJ8rR6WHHuHrA/n1mr1scj6m3g49e/JB2%2B+SDD+SHARE+BY+JODS+TV%283%29.zip",
+         "link_livery": "null"
+      } ,
+ 	{
+         "title": "Avante D2 Rosalia Indah",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/385.jpg",
+         "link_mods": "https://download2283.mediafire.com/ejyzzugstl9gHgESNKj7bDjZqFX6iu9kZVdwDKFXCnQ7lhIh-iKjdSustceuwOajTGpk6TwC5ykxOI8uyjTWq5m9lUdxcYu3fTj1FtMfnoqCLK9gyMHlQo3XAR7YAIe9dOW72opI-4B3YIXqVj5EyQHtcZtlLCGRskPdneyzv_Buhyk/pjs6xay8strma9p/AVANTE+D2%283%29.zip",
+         "link_livery": "null"
+      } ,
+ 	{
+         "title": "Pandawa 87 Jetbus 3+ SDD Voyager",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/1056.jpg",
+         "link_mods": "https://download2392.mediafire.com/nywdun2106ggOP6jBxaQPV30AI0NvhX-ESJh9UZnvXZFWppxmPg9UYMUuuSFumBUEiYd68JuPDGwm0nGvUoQtPdolMVtFtz4g5FkDx6TcOn1_SGEktmxVkM_W9VRsFuZZwKmcMGe_uwlQNWfxzbUM0q89mWtseN37o0KDB1j3Sn-jH0/vd926g4wcotbtly/JB3%2B+SDD+VOYAGER+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/9v6ctjepk899ml3/Pandawa_SDD_by_Blahbloh.png/file"
+      } ,
+ 	{
+         "title": "Laju Prima SR Double Decker",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/174.jpg",
+         "link_mods": "https://download1654.mediafire.com/psoi6us5flmgfJFax37ea_gROyILCjHKjXEN4roNZhbrsx-s_ZHBLJoBftBZDdlHr69cRU2KbptHouzBypuuwc93QMpbAByJoS3iS0_R9TmVjVz2HQiSsZ3rsAYfRBG2DLJqQkqryMZzmZgQMiT1cmEFFTF3vUpLMWqHFXjbsDPqzPE/0578y9v0klvbpo8/MOD+SR2+DOBEL+DECKEE.zip",
+         "link_livery": "null"
+      } ,
+ 	{
+         "title": "Double Decker Gunung Harta",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/08/393.jpg",
+         "link_mods": "https://download2276.mediafire.com/oxqix1q7fjdgMz9dCQi4I6xf_eA0acW44lirhav2q8Iz62b7VKuPyf9ehPghxYvzjgYBYUKGbwx1l3by5bE4IqJCa2fVBNfNudV95i8TaDkx_OP4tLJvkWb7-zY0-NRs5fJ9u7rKpodvoNQ8vtsXvRzBEEI33pcDfUMWU_bozqrDJG4/73jv23k0jnfddtx/SDD+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } ,
+ 	{
+         "title": "New SR2 Double Decker SAN",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/361.jpg",
+         "link_mods": "https://download2293.mediafire.com/kx9m2qerey8gtNghYAzzALVHzUNPSqYH7dfJCgogDsXvFXnhMqJijdD466pSBWRWH14anhuVeQlUTclB_DLFc634HNtVuR5ywn76ZFDvz5Xcd8V-QeibQsTROocxGIakTJ6-k57HiiXHUoQtzOOJjeyOVDtqqRARl2cGzbwow3mW_as/r52mr020dbigb22/NEW+SR2+DOUBLE+DECKER+SHARE+BY+JODS+TV.zip",
+         "link_livery": "null"
+      } 
+   ]
+}
