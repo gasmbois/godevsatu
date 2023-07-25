@@ -1,0 +1,129 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mobil L300 Pick Up Terpal Segitiga Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-20-10-01-59-85_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2393.mediafire.com/ji6i0oizp95g5E6ZQxff3oNrNEJIKumf2plE6-mrR9Wi2mID2mShaQCWvicdwwVGyn-qdvfLyIQAzwEKVMjRFj2sO_ti0dYhdQqC58O8D7XG9Ii6-6Jp4LuxOtqgLWl2qKI6bQsBNJZqeczUcErZFRuvcAA-Xxlw8ss_AePtn_WynFk/ivdh3f35f44gtr3/L300+%281%29.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mobil L300 Angkut Sound system",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-muatan-soundsystem.jpg",
+         "link_mods": "https://download2391.mediafire.com/vr9125yit1eg5Z3a0YlQiY8eY_Omh8yZwd8u0MLpD9x0F4gIlXdIc6d-25ryiYlZat6-1aVawrVIMxl9nOqeavhtzYgts5OUP3XEwZDRzBftOnm17X0pNFx7_TzQ2ABbB02PtI-ZHTxrLDk8y89FDu17WfRyccxW83HT1CepCj2cvDs/dlolh8h0abxtc7r/MOD-BUSSID-Mobil_Bak-Pink_.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mobil L300 Angkut Bedug+Orang",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-angkut-bedug.jpg",
+         "link_mods": "https://download2393.mediafire.com/2ne66rfcqslgLCx0NYCnFrvwcD0FDK-E-6687FVV9LlGavvYVHcNvBpnSOJlH2rxpxNZJXA9v1Z3--BIRft1RW0V__reyUdiu-Jn93rRGQ9ho1ROpG8y4ivHE9IGw928mS4K82cW_AVSz4B1Tqlo84IRi9hpbxsq1Ro6qmhaMavgWEM/fbtmvf5g96v24i0/MOD+PICKUP+MUATAN+BEDUK+BY+AZUMODS_BASSAMAZUPER.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mobil L300 Muatan Semen",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-muatan-semen.jpg",
+         "link_mods": "https://download2389.mediafire.com/5aqib4lx84ggtdaS9yQI6CISKbnEjufavyFcXbSgQF45W93A-JiDSk6yhM9T9AWWwaSxR4rPIDoBkNe2Fp4t0nhwiwzMhhE02M10c9JGOT5dMgcCFlnh_A6_iFZioxcG5IhuSyfXI5TMZLBXp9aWezXpBPtKzE_vUWXzqTsY-XHtkFc/ejtptc6v4rb3m5v/Update.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mobil L300 Tribal",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-tribal.jpg",
+         "link_mods": "https://download2275.mediafire.com/zmsi7nl3r5iglyc84kAA78IM7_jauo3xhmyfB1pjd_LE4urWDRvXOAMDlUg9wQ40-2VInulqH_gxbqCL6ANqM8WvqYWmLMGgMcVK2d2Gqp7RGLjCgoG0hwlNpkAQPXth42jcZpIVEmzGt1OZ29peWOw5_Z9o5enY45mI2qvQL3XhwoI/mxs6hlfbh3hfxit/L300+tribal.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Mobil L300 Angkut Drum",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2020/02/mod-bussid-mobil-l300-angkut-drum.jpg",
+         "link_mods": "https://download2264.mediafire.com/o4mx1z6wrodgLYCcAZd2aRZOC-RtbVIk0QxeCt5PZaxLwFZ2GNqoza2Lm2mBshSLlDr4FESQ8KKCZSylOJV3GhfbbQams0NLU-OLu-3x2O-xdlgy1t3BDeuNa-NGbbywRcC3Pl4_qpErEhy2Ojz-_JThoRJBpGdmvsjfb5LAzSVsirY/gavp8aj1s0au3pq/L300Drumm+--.bussidvehicle",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Pickup L300 Muatan",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/676.jpg",
+         "link_mods": "https://download2389.mediafire.com/0vpk22ilouhgHGqo111uAs1W20bUnHd8nLXDXmKOX9CCtPMlqowcob82QLM8MUuRbwxgWrSDqjhkpW4t-D8ooUHKaheW6CKaMIqcNQxyaO2m8OhotIYszaopT_QNyA1PZzbLe8tNqiLJzzFuoyrzMfpUbDwKpJopkLQie-EI6plfDpQ/8yd18htvv1xbt9i/L300+Souleh+Art+Muatan.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710692/246837/f60727993744567d0be0f83087896115/3-livery-l300-waroos.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "title": "Pickup L300 Rotary Gayor",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/677.jpg",
+         "link_mods": "https://download2344.mediafire.com/qa7sjp8q22sgnIGsxTMEAKaqAQQKblKR_2oV4M-CQFaXXskSluLJaxzLhIY6mWOpI6qX1vYEnzA978FBhSB9Ao3Nb4V1M_hiDZUul_NVTJpPRbCII9khotC-6iQ3cyeHIzphAWwNPfXAwior18AD7RCiOj3BAStlCxsGa5lvGNUFHTc/vhdam0b7tls3cjy/Mitsubishi+L300+Rotary+Gayor.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710695/246837/f60727993744567d0be0f83087896115/4-livery-l300-rotary-hitam-2-.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "title": "Pickup L300 Muatan Kayu",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/678.jpg",
+         "link_mods": "https://download2389.mediafire.com/fer32ls9wn0gCbQQB5xFICSDQMzMfhEcKp34icHL8OhG0mu08QvRI60VcXZJBqtFsQmvfuAL9ka5l_64VK_j-sKgjjM06Wp6tDgliX-8LfHgVYApCClbBZXfQdAQ3tLRe9W47edD8ypfE_t6DgZasJy2I2CyOLz3BZKrurnz_WSXImQ/paqydhz8ialkery/L300+Souleh+Art+Kayu.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710696/246837/f60727993744567d0be0f83087896115/5-livery-l300-bobo-gatels.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "title": "Pickup L300 Muatan Bahan Bangunan",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/679.jpg",
+         "link_mods": "https://download2391.mediafire.com/krrytss65pag7-9gLll4Jsufp9NqY-fb7xkW0PnCLuH4qL0Q1aZrsg5Y1-fJzVXTACHpshn0G1qjHu8W2Gb1Bap-ApCXvU2kJ7ePDj0Z_nXP8iP4iYA3rp3v07dzlkRjFaFwRCcFr0GNTVXNfMELpOp1UXfml2EsG6Q6uq8sku2UG1s/93fajqfapvoge01/FIX+L300.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710698/246837/f60727993744567d0be0f83087896115/6-livery-l300-via-vallen.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "title": "Pickup L300 Full Modif Extreme Roda 6",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/680.jpg",
+         "link_mods": "https://download2273.mediafire.com/lqo7f6549amgHhgQw2U87nLdY_8PJEXvqKOTEkwpSinTgOE9-BlSgt24DiJw-3kg0YvAjHePi94XxggMIXn3XXzdEXWZ501cbVQDDG6afUEEcbd3gsuP7z52kwtudDvokhUvZL2lvXh9nBYvfl4MTm0XHJ4ys_hyfDJCxB6xkNm3pyI/0jynx1oi3hkyou1/L300+extreme+modif+by+ntuz.bussidvehicle",
+         "link_livery": "https://sfile.mobi/download/710704/246837/f60727993744567d0be0f83087896115/10-pick.png&is=609fd2e5db475743f50507ab736b17b7"
+      } ,
+	{
+         "title": "Pickup L300 Full Strobo",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/681.jpg",
+         "link_mods": "https://download2389.mediafire.com/bgpu2c63folgW3cD9Ca3lwJw9XyvMEpZ7iBuiI3i02OogHpc_yaWl8cDd7Rml5oZP0hE3P0Qv66fQX-IW7BxdxQLdQF8Oituqtl2Q-4GYp3rTR7Jc8rr_byboYGwlrqvML3OYQVKVTC4MLNFe3H21U0dlDZT50kIDTXXIoEZZQWtF80/ogupdlxurzdvx7t/21+L3+Full+Strobo.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Pickup L300 Rotary Muatan Ayam",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/684.jpg",
+         "link_mods": "https://download2389.mediafire.com/3pbhm87o431gP6CCo1o0qWKmXmG6VWJp9Kf5pIja842LomhV2YlFNSFz864zIEt5r0cD92B7vtJLIN82kU47ejdEjjkaWpXCBSV3BMvII2QT2Za8_lw8czCKNI2nnorzWb6rQOzbdy-v0DVvQHPDK-Q1TT_wo9bZmupQpN5Pp3OYO0c/35ynuejprjyh769/Mitsubishi+L300+Rotary+Ayam.bussidmod",
+         "link_livery": "null"
+      }  ,
+	{
+         "title": "L300 Custom Livery Body",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/690.jpg",
+         "link_mods": "https://download2390.mediafire.com/ij577457n4sgy4XkxZ_C6Hp_c7AhP-tyaXj-EPjtqWAr5AgniJGp5m_0rmxzY0teFi7wxbjWccHS8h55Vt4udtykBOHQyWluMXVe1k2n_rJ_2sA1NjScPAMQ1oyHNnZ9_MWHQjs-E4ed7hDXwLTpmlPP5qTvH98P8NWEvbOqssL6EPc/bdgzrvrm8i25vnx/FIX+L300+muatan+tanpa+kernet.bussidmod",
+         "link_livery": "https://sfile.mobi/download/710701/246837/f60727993744567d0be0f83087896115/8-liverycolt.png&is=609fd2e5db475743f50507ab736b17b7"
+      }
+   ]
+}
