@@ -1,0 +1,105 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Truk UD Kuzer Dump Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/11/UD-Kuzer-Dump-Pasir.webp",
+         "link_mods": "https://download2286.mediafire.com/l5ajgklhmnig-hseJ7vTV6osQYZy0E6WRIkpzjCroHQsqx9VmPnyo5jha4rqxRN1uiuEfNMk0N1cxDuSkVcW3C3pk1YpHFV2vIMVf6li07lVoq7WM2kfryvQrB8bcvzhYCJp5iOQsWNDuNnJLvYJ9Nj4Ql0j9zTQ3oNe5vSyOwMVMQ/987jkthxnm4okty/UD+KUZER+DUMP+Pasir.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Truck Hino Dutro muat Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Hino-Dutro-muat-Pasir.webp",
+         "link_mods": "https://download2275.mediafire.com/2ndcsys0lzfgRBkxdocNisiA-fKtg-VkbuaQ6N3ekVkaGGhm6SViQ78cGk0Ql-QarvLIbB3I-_GjOjzUZdraYxSZacztd7LHbvG6w1GdCEd0oWEYOirC5QgFk00qu0jOMXVFkw_GlTKThD5Q5BnujRuOskxQJJdSeV1RkYr_CJz2ug/wkkhsf7hy7vc8hz/HINO+DUTRO+PASIRAN+BUDESIGN.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Canter Antobolo Pasiran",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Canter-Antobolo-Pasiran.webp",
+         "link_mods": "https://download2286.mediafire.com/kwud4borpgrgaYlUa2ppsIn2W35bi70BHbejBYxmcqxtVb28b-4vV8q_p8vk4_6LMAvPXr9geT2P79JAVp2ZdPyjOu1uhciyt14dbAkQp7EM7EqXI2V4UboVErB963Qwsn_4yWI6nPhf88xeDSj001R9_xPYId0LNZPLmzkKnY3i6A/j7u3sqpjtrdembj/ANTOBOLO+PASIRAN.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Ragasa Dump Pasir by Vicky86",
+         "image": "https://media.thelastsurvivors.org/2022/12/Ragasa-Dump-Pasir-by-Vicky86.webp",
+         "link_mods": "https://download2391.mediafire.com/hx0ud6sepkqgBKeinTXV3reB70y3oWt-mZZ0H7L9_jHXmlwDYeg6-IXiZepJXTVv1tKeK6dQ11Py3jtHuhYr-wL7UlLBigOlAiZcaKkdlKgyXR74A7aGN_a_ZxVtzGusX9hedzTiEm4LwiA3gaablw5b4oz_mzLQLPnNd4KHNqUJBg/ma7xc2alh9iafu7/RAGASA+DUMP+by+Vicky86+PROJECT.bussidmod",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Canter Dump Truck Pasir Meitos",
+         "image": "https://media.thelastsurvivors.org/2022/12/Canter-Dump-Truck-Pasir-Meitos.webp",
+         "link_mods": "https://download2285.mediafire.com/naieapupqhfgv-XCLDNzUrbXV1yn4P-hLDc2zg2Cq8BAgH4__79u8zFeAup0OosMD-8-4PJThjQpB04Uzxe9wzyyfFBux4h-fB9VkRwPfSpQ_r9EDriQhexagLXrQ5nUbBDMpqcv-Giuoch_e_8zUPHvWICi086iP67jnKiKvU1PHA/8ur75iptb3gt1r3/DUMP+MEITOS+%C2%ABRMC+TEAM%C2%BB.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Truck Hino 500 muatan Pasir Hitam",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Hino-500-muatan-Pasir-Hitam.webp",
+         "link_mods": "https://download2260.mediafire.com/l8liahq5yxhgz8hTIzdB5Hcm0zyYYtHfq0Ywp9JG7T2JtRNE70e7FzL16izyuXCnz3wkoTrQ6elLkrP6zCCfUWgUc0oHLYzF2xa0Zrniv_6-R6BZBJIPPC3QjNqzyltbeLE2Dbhexhy4z3BDJtZM-CqM-7tFdr4EgXoHVlDQsRJ2ag/5qgu4dv9rqhq55q/HINO+500+DUMP+BUDESIGN.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Truck Umplung Colt Diesel angkut Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Umplung-Colt-Diesel-angkut-Pasir.webp",
+         "link_mods": "https://download2292.mediafire.com/d69i3ywfj4kg9ppDO6GUroAznPFxDQjkTSFhqGAvHSdcYYWEl0bPhwc_8E251a1iE8yaz4m3RwHZJC2gHhL1RSKxpFS6G-JwMKEMEJYHzl5GB5pte1jd9wWWGpmkQbcJLGVuRrNBL2hbq3U64B6ikzl67J7HuzU-uI1y74-JNTPDhQ/8znhg0f0twsj0s0/umplung+pasir.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod UD Quester Euro 5 Dumptruck Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-UD-Quester-Euro-5-Dumptruck-Pasir.webp",
+         "link_mods": "https://download2301.mediafire.com/z0lsq7irqcpg8R3HxDH8KI5rk3KPDqJhru4Bm3caYMf82t3sGsTRdTBECEYTL-UjPGa0ogCJRzizgdAmg_eYpRcvf07fx0Aa8rnYqFjVHtkhDvOvyOmwZxkxEVhMBUnLvoqIrqEJ03I1DwytIIfztCA0nGbmuluiMpnV_PPui28l6A/zjwy507n8zj4f5a/Mod+UD+Quester+Euro+5+Dumptruck+Pasir.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Mod Canter Dump v1 bawa Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Canter-Dump-v1-bawa-Pasir.webp",
+         "link_mods": "https://download2296.mediafire.com/5b0d81a5blagsN5Bs5xWAlq50hNFNP0hErys-FISF2MhHolG40nTr-_Ae4H3W1Mp0T9VswwSJH4oTUh-abnmiJmGXhrHfLeBWtaQS--Orfmu9o895kTAjlsWv-EIqUEOZptOsULKtjjbwjxaUVhz9ap9-_Gc9eDuUMSHe5l3NqPQWA/uz5pn2kgsj4y879/CANTER+DUMP+FREE+BUDESIGN.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Truk Hino Lohan Spesial muatan Pasir",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truk-Hino-Lohan-Spesial-muatan-Pasir.webp",
+         "link_mods": "https://download2289.mediafire.com/9tvti5hh9ukg5a7xULxTT011IId-5hhQw7M6rP4RQDSppA3_SsaUb5iQC-3lKIExRPTfQ2CoL720jbW1gfECmb43xZ49AYKW27qcMLbZfnn42sArcWGOap7ZilhrI95fk0Tc_uqB5kmbN4n-0Sc2ijNHJ20PHNUjt2NYEKKQ4w_SAA/mc1owwvjrzorosd/Truk+Hino+Lohan+Spesial+muatan+Pasir.rar",
+         "link_livery": "null"
+      }
+   ]
+}
