@@ -1,0 +1,106 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Motor Honda Vario 155 Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-24-20-53-16-47_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2389.mediafire.com/1gcyw5nx30ug9rP-w39F-uw68R6fb3wW2Pg2vcZ26fF26C0am9MQZzYmqOCaeP44YOnV3bJipOhMRuZUTHqi5OhIjrrKfmD5Eq7aOCRMrm9DNumJR4WKCRTrdC71b3qTdqgmkfDYRqFmCIrEO3Zqc2tEzeLLXLy1RgUEFCwODkawO2c/8xltpmyh6i2res1/MOD+VARIO+150CC+KNALPOT+MBERR+BY+AZUMODS.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Motor Yamaha New NMAX 155 Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-20-10-01-24-75_5d347d05ff406c08e59fd63f6905b8af.jpg",
+         "link_mods": "https://download2392.mediafire.com/o7lntlits5ugRTfr31-vgSK63XH2iWESXfrjSm02djmsoiWwp-WwRRFoJyjzdzhturwldS3EpkEu1qxdc_8ZQtmFA4EPvA9SJHYZr0GQY20nKsrK6tTqk-SrTgscyTda7J-WxYDSy3DbvFhZngokaMr4UF0AWZTOOWKtRGT_QFVYr_A/y5g39hxuxloec70/MOD+NMAX+155cc+BUSSID+FREE+BY+AZUMODS.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "title": "Motor Honda PCX Full Anim",
+         "image": "https://modbussidterbaru.com/wp-content/uploads/2021/01/Photo_210109110959.jpeg",
+         "link_mods": "https://download2390.mediafire.com/4ibjju5ehebg4iJ3JYbZAQRbYAC_pDwFeVMMDwl2iI0gD3e5A9AGxWUPAA1t-MACT9tTf6BvjS6nwLcbZ9SKikODB0r4w5C73N3WUEp0cLqQ0xybeGQrTqT6Wk8R_Ac7hoehH_oY7TWK24lGrS4kRY6OGUOtiq4hDQWnH--kjcikDKw/vnoawsdnktjp2z1/HONDA+PCX+SHARE+BY+JODS+TV.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Motor Honda Beat Original",
+         "image": "https://modbussidterbaru.id/wp-content/uploads/2023/02/Mod-Motor-Honda-Beat-Original.png",
+         "link_mods": "https://download2393.mediafire.com/jg7vwnnva6kgSM-bSR1awfEt4drgvGGiTlEbk2dIg0z2A4t8UIv5NQ8__LU4sSo__hJka3_qVrHscywPys_dMO583v_Xk7sETaUlTPjsn06Zkr-9kvzpbhuePOeXaPfmzNBusitXiYTCUyMcTj0YjhpF04g6VWzKdsd4tW6KuZBnIB4/l1briehja6oyj2k/MOD+HONDA+BEAT+2020+BUSSID+FREE+BY+AZUMODS.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Bussid Vario pink ceper",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/016.jpg",
+         "link_mods": "https://download2389.mediafire.com/bfvxh92u0yogULAN8VCfmpEw0gVYNUv3GNKpkbLiUAJ3ssBl8AllBaiV3b6UBwqwylqnrcJwjsptoPRfJiUYe9FLI4od3I-BAfbmMsckd4V1zQtAPa9AD6hSmaS57HolrL66bIF3ivvWwCQPLN8ltobtmY_99VqHivF8CtxsACDzMYU/uqhy3ltt5oldrc9/MOD+MOTOR++vario+%282%29.bussidvehicle",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Vespa Matic Fakboi Bussid",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/102.jpg",
+         "link_mods": "https://www.mediafire.com/file/uqhy3ltt5oldrc9/MOD_MOTOR__vario_(2).bussidvehicle/file",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Mio Drag keren full modif",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/106.jpg",
+         "link_mods": "https://download2392.mediafire.com/5di7t5c48nugq0weWNFCsOtEnevdsAnT5F5UUpxWeGMTEWpoEa7mifUVO0Z3dpCWukMA90K4XwmXPJrZz7v6OZ1Ah8LIMr0K31JOA5CJWsvb9uPvw-n8G_4T4_mFf0nD3KvTqJM-di4men-nDpDmeu-LRtnyOTRyw_l4NeX8EUpck00/yboc4f6ekxz4gwf/3+Mod+Honda+Beat+by+Azumods.bussidvehicle",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Yamaha Aerox NGAB",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/117.jpg",
+         "link_mods": "https://drive.google.com/file/d/1BMT5YFs8ZzdhJS4OsATrtq3BZMH_MIVu/view",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod bussid Motor mio mberr modif",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/116.jpg",
+         "link_mods": "https://download2389.mediafire.com/cfg2q0rx0ljgoTaJ6S7tRyZJszXgk5GU4BywPcRyZcZpKAeGYcNe2zhpvmgdTHmo3UcKrColP6p-PSr-k5v0zposnfHEFVY69xOhtQ9_dLfU9l_8PLaDslguItbHexei3ACPRSoGu7mIZONaIst9AyAII8vCiGtotECwcB0cyxoI_R8/nq5um6e41o6boqy/Mod+Mio+Drag+By+Azumods.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mod Yamaha Gojek ",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/05.jpg",
+         "link_mods": "https://drive.google.com/file/d/1QoPVuLDz2eNsiUoISxifQ1O9czdWmySX/view",
+         "link_livery": "null"
+      }
+  
+   ]
+}
