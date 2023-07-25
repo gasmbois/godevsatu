@@ -1,0 +1,123 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Isuzu Traga Tanpa Muatan",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3262-1.jpg",
+         "link_mods": "https://download2297.mediafire.com/qxwhznubxzsgFozopEfiQoqBW1x9BXuKkBjVeh9Wsr-8nIadRA1IJKoHt0dqaEp55rhksNPjGqDyRKYzcmByi2EOpAiM5xmXdbe6gqXjnBfYCSqYyc_-nbU9u7YJkO2uUDDBHAnjeRzhzUYsx6NWPYFpbHxiEiw5RF5-g5OgjAGACA/dchjufxzik9lma2/Traga+Different.zip",
+         "link_livery": "https://www.mediafire.com/file/4hs5lgl39yyx4np/Different_By_Dhe_Adi.png/file"
+      } ,
+	{
+         "title": "Isuzu Traga Muatan",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3263-1.jpg",
+         "link_mods": "https://download2392.mediafire.com/7jz94swuw0bgW7f-EZ7W8jhtWyWKFaciVItZqc77BKcB7NsK9BiH9tE5P5tNSRYFNkCR1b0PiZL93WIwjH13CmkB05rvBgLG5uW64bD_FSaq9s0up9FATZngtaFkZqDJEURRmPTuger1KzI3A_GcZ9eOyQy6X9KYX91dbSXlXm05RQ/svz1abql0s1rh7w/Traga+Different+%2B+Muatan.zip",
+         "link_livery": "https://www.mediafire.com/file/4hs5lgl39yyx4np/Different_By_Dhe_Adi.png/file"
+      } ,
+	{
+         "title": "Isuzu Traga Minimalis Sapi",
+         "image": "https://galeribussid.com/wp-content/uploads/2020/08/Isuzu-Traga-Minimalis-by-Souleh-Art.jpg",
+         "link_mods": "https://download2389.mediafire.com/eovio5jw2ttgoFtSDa8wNAQcndnxCYXq6GLfY5ZbPdhBl-V0ehucp3WcTRwfzihrw6v3aKvbZF9jY75ePYCFFC_JSTNybdS_qoqm7C4_P05dW-LJYGfPR5NOHEr-g0CXgPZyz6CgDxzWGoxN9tof8AhdkV9FY8Shzakz5Dge28_KTA/0uht79lm9gnsuxv/%28Muat+Sapi%29+Pickup+Isuzu+Traga+Minimalis+By+Souleh+Art.bussidmod",
+         "link_livery": "null"
+      } ,
+	{
+         "title": "Rilis mod bussid pick up isuzu traga mbois",
+         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNUP3r1Cpq-C-BAXmWFtzTTAZ579Nnrr3UFMVgm74ODCJIfDF0I-lykmkbRrzE4lTeZNbPtIqIANxOWC30CGWwWx1QXgEjjwj26Rw2lOvlSvoVM4T0pl4W5RKSv2SeqSdhJu-HQb6GNsXTtNFpoMhYPSoAMxIM8uVSLa7WPS4xpEHfqFY6XCxQ87WrHA/w640-h360/20230120_111646.png",
+         "link_mods": "https://download2276.mediafire.com/volt0k3pbfigzEv2uNjU2mIVkBd0bcO5RoMAl-63CYAOE2fE7dybXBY9egP7A7ojFx2sMQ4Zff3HINNm-BXoWDXLq2Z4UurhJ_TeXfUaRfKczykTXlNNE9E8yrpFMKgiQEwmaFNKusUeehrtkEEVzJejpyfO5BL93ozve9VSNUGNgQ/02663wltvvbg4w1/Traga_v6.zip",
+         "link_livery": "null"
+      } ,
+	 {
+         "title": "Truck NMR71 02 Engkel Terpal Kotak",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-NMR71-02-Engkel-Terpal-Gayor.webp",
+         "link_mods": "https://download2286.mediafire.com/9gz808ml2zdg5fTTVJCWpDc8547E52b5515Wsps_HO8EHJZ2z1VHcAQfFO-BdoSoD1u8wTb3tTCrx0GpngEw_Hh8nxBayEai-TnQTFqODeDJXzYbZAAfkvdqsktnlhZcaspkT_dDfGBcdqNZgQlBO1tBNurEgTNnUXQpJauLpRhGKrw/1ltjlgw7ys9nip3/NMR+ENGKEL+02+BUDESIGN.rar",
+         "link_livery": "null"
+      } ,
+      {
+         "title": "Truk Umplung Engkel Terpal Gayor",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truk-Umplung-Engkel-Terpal-Gayor.webp",
+         "link_mods": "https://download2300.mediafire.com/f19mxlt465kgik7Z1__hm2JA0Amk0e9TE34rJObVsF6V7R3Uz81t9MPBfyqPC5rEGdrEbL6BYdHgdwLv_q6w9UJeGo-BblwHoS-69YAxaAct5lvOINfmkP2fOnlu9ResqV7SlXFEuwHtgCiumdoF7iROElQM_R_hbZWuhJXeTGUW7Tw/rqgplcmjjuz0ma1/UMPLONG+ENGKEL2.rar",
+         "link_livery": "null"
+      },
+      {
+         "title": "Mod Canter M18 HSB Rice",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Canter-M18-HSB-Rice.webp",
+         "link_mods": "https://download2303.mediafire.com/dssp9zwg76kghgqWB76NSEw-fJTvCyQQ_Y_zhbnsKXH0oeXMZC1LbJ-plg8HJ4FWAcUqYYX9oOzXAAtZl_S0r0w8wbBLaqtgcFnAcJP2q7ohTAIPuUTZxXzjGZ--ze_f29Sdr05vtqWC8zWxrYW9kJbS_zfFpRdhE6iu28wQBLRsR7o/a99o9zo2nbekhkd/M18+HSB.rar",
+         "link_livery": "null"
+      },
+      {
+         "title": "Mod Canter Losbak Engkel velg Racing",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Canter-Losbak-Engkel-velg-Racing.webp",
+         "link_mods": "https://download1592.mediafire.com/877jt05b1t5gWa3M9P6Dz2JJhuszg0pxA_wlHRp2iYYu0-lg8X6ji-ev1qiP4w94mzIojwm3s_4r_uNIVNJBJYNWjFLTqRVFTvc7u6GkvASGWrhfvyezsSucWvrP7T7dEucErpMFV_LIawHVxbJzmf4IXcPqzUNu67SFUGyRk_fFL54/ieuv1fnx7kd54wt/CANTER+LOSBAK+RACING.rar",
+         "link_livery": "null"
+      },
+      {
+         "title": "Canter Engkel Losbak Dop Custom",
+         "image": "https://media.thelastsurvivors.org/2022/12/Canter-Engkel-Losbak-Dop-Custom.webp",
+         "link_mods": "https://download1528.mediafire.com/r35opjn8kyggrb74NXdeQNvvdVL4rbimCL1e8DDICocxZM0twHwkN4ZiR_slpY58rzK-UukCk8wa9xVj5JBkrUWldI8VfJgnbbu5m3o6_mT52R4ToS3opS1m8hpkn5FYcV9NVaQ-bNEi9JElgizvujIe0DBaE8jLo3eDsx94LMR4p7w/wo76pce6whvzaa8/CANTER+LOSBAK+DOP+BUDESIGN.rar",
+         "link_livery": "null"
+      },
+      {
+         "title": "Canter Engkel Mbois Bemper Patriot",
+         "image": "https://media.thelastsurvivors.org/2022/12/Canter-Engkel-Mbois-Bemper-Patriot.webp",
+         "link_mods": "https://download1522.mediafire.com/tyvuct77etggXneBmZzAsvX3j9jnGkunCCipjlJM052E4UrB3W50eSlJBxeRYEIBXXPKHIdzX1tVYSNlr08hfO2eBXOKNFRG0ACoYWT1qq2aiE8OfiS3f_b3DzJSJx4KENdBfEpdPgJ2peoPZs2-AuBqxZLUitkMHREtQpsH0CaV3Qw/4y33szg48anb11j/Canter+engkel+mbois.rar",
+         "link_livery": "null"
+      },
+      {
+         "title": "Truck Canter Engkel Standar Terpal Segitiga",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Canter-Engkel-Standar-Terpal-Segitiga.webp",
+         "link_mods": "https://download1321.mediafire.com/0f40hzluw0ngmwAv4tHkucED8NluAw8t0kuviPO3y9qEyt7cVdLE-vSXaznNxsRehyKyFYuKuf4LotVHT5oZkMGUu2jAv0taf3LUc4_t6YtTI2rGqdheOdsCQuS6NoLSgJVk3SmTxLOmlyGtXUwpRaACZXf8vxaLKHEE72jJhwEZtbw/sl3qe8k8n7tijp5/Truck+Canter+Engkel+Standar+Terpal+Segitiga.rar",
+         "link_livery": "null"
+      },
+      {
+         "title": "Truck Canter Engkel Box",
+         "image": "https://media.thelastsurvivors.org/2022/12/Truck-Canter-Engkel-Box-Mbois.webp",
+         "link_mods": "https://download2265.mediafire.com/ilb2epjzff9gD7mXNzBnb14l3TMK21kDLPZe5_2UCBFjHlA1-RM-zrxotCmlPtJiq-vTEhzTPRw6FpeFCPW5RI8P8TvYj9V-pABtAhUcrKAsW0eeMBlm7rl8L49p0ZLkR6ZB--xOUo0AM0WkelEh3WGufuf4WTnR3NlcHvjyOg_xZJs/6qs130f69tohyld/CANTER+ENGKEL+BOX+MBOIS.rar",
+         "link_livery": "null"
+      },
+      {
+         "title": "Mod Truk Ragasa Box Engkel",
+         "image": "https://media.thelastsurvivors.org/2022/12/Mod-Truk-Ragasa-Engkel-Box.webp",
+         "link_mods": "https://download1509.mediafire.com/u92c9oonclfgEdZkHuFroyDFJWLC4QmLACizEt3IckKeUEAT6SPIYqKR1T9n11uoQTyTFOUQx4z0Fk2ss_G3FJSFhcMmEu1kO3fcpo5i2jCZiT5MwU6l-9Z68jZQzChr-u_oMgeRZjB-AyfUS6QwXqUFKh6F9f26wLzWaFcJRERuIHQ/kv29vipr03yn355/mod+ragasa+box+engkel.rar",
+         "link_livery": "null"
+      }
+   ]
+}
