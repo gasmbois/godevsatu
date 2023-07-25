@@ -1,0 +1,105 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mod Canter HDL Ladimas",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3327.jpg",
+         "link_mods": "https://download2390.mediafire.com/gged8hygvf0g24qf6uUDvwBRC-7roFTAVee6W7g406ctuJXwLSYAyNIaEMMN409cQC-Zga7XUPrvZeFNwwmyUZkNkERAOBTmtnnwaO5Tk4Ia_jo8Wh4cmp886mIF1CrjU6mnsf4mMNRE3Gdj1cvRiNIZMVSdYk24l_etd4-li1cyNg/vhx5xjb56dahjyy/LADIMAS.zip",
+         "link_livery": "https://www.mediafire.com/file/e9jbon6cxtn6lp8/IMG_20230203_194637.png"
+      } , 
+      {
+         "title": "Mod Hino Dutro",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3328.jpg",
+         "link_mods": "https://download2266.mediafire.com/1rc6kdgre0agnnaH0VnfxiAV2D_xsu_LvQn5u5qUYBF5Gnh9ISvM5yUBUHzbsNrYb68k8mC-RqOs123XqMlKdnxmoRHcruMfKOXrGAbROIvMG_ZgQDzM6kNG_XVdqRWO3TKoMwywTOHOgZ5wj2u25UFO_V4T-EgBqjXTCHd1BdsXMA/eq45p4vqsc7lsmp/DUTRO+STYLE+SULAWESI%282%29.7z",
+         "link_livery": "https://www.mediafire.com/file/ba5v6tjlo3pnju6/IMG_20220719_125854.png"
+      } , 
+      {
+         "title": "Mod Canter HDX",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/05/3329.jpg",
+         "link_mods": "https://download2279.mediafire.com/syzjtvoohcjgwQjch0RVtIAemTTB_hGIjn8gO-l89nHH8ut5Wky9yKWT6hwpUdYj1aVMai5-8V9srR6llZhTKRKB9L5k6b4eGZwrfKIBgBqrKtT9RQKMInLxk6XUQJ9wqV7CT5EPDQtYiEgGnikPKA4YYuTgH6pnqaZf87mFTEZndw/ysp32s2ll1aqzhs/LEVIS+HDX+2.zip",
+         "link_livery": "https://www.mediafire.com/file/ytfdvyvyxyf0eor/IMG_20230201_155506.png"
+      } , 
+      {
+         "title": "Mod NKR Om Ghaston",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1777.jpg",
+         "link_mods": "https://download2270.mediafire.com/rxpgjgi6islgHkQY24Kz39tqrUAapf-PC1hQbZ-qn_OUP6I5rUwUU091Q7Sp_X9bVyBtH6dUN9nEdpD-U-SgWeImVdzaE0pRKHS8TVMPJlKz5Fh87A9-w-BEMWAnYI5wkJBibDKps_lxBpwDcDaU8C07FaYKk2-rtXHYR9P3vNDq0A/hm449yenwcycto3/MOD+NKR+OM+GHASTON+MUATAN+BY+DAENG+MUANG+ID.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/6mrv1kwgrsmfenc/Tubles_OmGhaston11-04-07.57.36.png"
+      } , 
+      {
+         "title": "Mod Truck Sulawesi Dyna Kontes",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1774.jpg",
+         "link_mods": "https://download2276.mediafire.com/oxv9rf1ug2ugFCNGbgS7sgj6r5lT_wZQfaFXcr5aqkXFNv6tUgMhxlAWzx7CXyxD1sbEkXi2j72NP65cbXBGFESggPqbqYd5CJTPBPcOcWQQMjsMZbeKfqYK8920dM1TtDC9AkB1fnKwIV3HB_3NW48rU_5ZFICX-hPVrap-ULyVqw/x481gpe6a3qqyr3/DYNA+KONTES+2.bussidmod",
+         "link_livery": "null"
+      } , 
+      {
+         "title": "Mod Truck Fuso Sulawesi",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1775.jpg",
+         "link_mods": "https://download2266.mediafire.com/rkd8vox49p6gE6HP5YUU2m0Zo9QXMDUpc-Jw_75rxD404AP0aGx2gdWeptGtWAvj72XMAK41y_K6Dwl86eMD5EEY7aRCcXjnuilsot-swTtYwRpyQNJXzHHfjH9iObz0OeSyYgIlXvqhh0zzIeCZC0l7jXrXRaHQzrUIIBMfQESMLw/jnqzgl3say79esf/FUSO+SULAWESI+Mx+Creation.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/a8w2wb6gc1rknzi/PicsArt_12-07-02.09.07.jpg"
+      } , 
+      {
+         "title": "Mod Truck Hino Sulawesi",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1776.jpg",
+         "link_mods": "https://download2273.mediafire.com/izgkseqxq1aggX9G4LA2yLC2rbVeNGj3Egia_HgQ-pmjknbHeSriEWhFDDUgtGPzPUnlS7AfEcSmMQ2lGQ5W_4jpPYKdqpZS1zZ5aFKwsmYwJ03YCJ_GFnUBcHPxo6fbqYnMU2gc5lfzcRhlKMkyYnjMWowhOTSGCiYj6a_Ffl7V-A/44jgs3txnc3xz4q/hino+Iksan+Jaya+Ks+.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/wwkmgre5piwiecz/Tubles_ij.fastforious.png"
+      } , 
+      {
+         "title": "Mod Canter Sulawesi Cyber Borneo Malebite",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/03/1773.jpg",
+         "link_mods": "https://download2391.mediafire.com/47eucvvi8fog0wG8tYxqUJOCICI8SMIsC1vmsz7_6ekPPpg3TyTaAjjZWA0YML-6oakmdddVSl4BPwPpBZV9yHnzRegVmYnT4EmkstV0INLwnCMojPt5GB9wlFomyxy0zlfWa_kQ-GCy_F6CpFsYbBaSFIWkFg0Zu38giuEkhfWUxw/bnaydmtflag7lyu/CANTER+SULAWESI+BUDESIGN.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/4f1tt68v4qu4fms/AL_CYBER_BORNEO21_OFFICIAL.png"
+      } , 
+      {
+         "title": "Mod Truck Sulawesi Fuso",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/11/330.jpg",
+         "link_mods": "https://www.mediafire.com/file/8ibhmb5h6lusb98/1fuso_s.bussidmod/",
+         "link_livery": "https://sfile.mobi/download/1232836/246837/f60727993744567d0be0f83087896115/1-livery-truck-s.png&is=648679e80b347577052ef12b5ada80d2"
+      } , 
+      {
+         "title": "Mod NMR 71 Empat Lima Isuzu",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3719.jpg",
+         "link_mods": "https://download2364.mediafire.com/rfkqn2v08fpgudcDDK6h6PdQVfBbXiyHNjmg6cHZMtKxLHXidYtkapGDuL0nOPrHtOLCkyJXC3pFzmkOnzbU7-1g0plMIqNlXxEVudAgj-nnRsZ1Ax1w3d4CUUuuyXNDPhB5dYT1xzksSGP_FvArMT7O_hwBVvq8U4gITKhOpyCp1g/ietj4bqhuqg97sy/NMR71+Levis+Gayor.bussidmod",
+         "link_livery": "https://www.mediafire.com/file/giqzwgo6f4vgurd/PicsArt_11-30-10.31.28.png"
+      } 
+   ]
+}
