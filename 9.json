@@ -1,0 +1,123 @@
+{
+   "Ads": [
+      {
+         "select_main_ads": "APPLOVIN-M",
+         "select_backup_ads": "ADMOB",
+         "main_ads_banner": "0",
+         "main_ads_intertitial": "0",
+         "main_ads_natives": "0",
+         "backup_ads_natives": "0",
+         "backup_ads_banner": "0",
+         "backup_ads_intertitial": "0",
+         "open_ads_admob": "0",
+         "open_ads_alien": "0",
+         "switch_open_ads": "1",
+         "on_off_interstitial": "1",
+         "interval_intertitial": 1,
+         "initialize_sdk": "107355779",
+         "initialize_sdk_backup_ads": "",
+         "high_paying_keyword_1": "",
+         "high_paying_keyword_2": "",
+         "high_paying_keyword_3": "",
+         "high_paying_keyword_4": "",
+         "high_paying_keyword_5": "",
+         "status_app": "0",
+         "link_redirect": "https://",
+         "on_off_more_app": "0"
+      }
+   ],
+   "Setting": {
+      "CHILD_DIRECT_GDPR": true,
+      "PROTECT_APP": false,
+      "BASE_64_LICENSE_KEY": "",
+      "ON_OFF_MORE_APP": "1"
+   },
+   "More": [
+      {
+         "id": 1,
+         "title": "Wallpaper Paralax",
+         "image": "https://aliendro.id/uploads/images/202112/img_1920x_61ab0f483189d8-72301906-87209584.jpeg",
+         "link": "https://aliendro.id/alien-parallax-and-live-wallpaper-111"
+      } 
+   ],
+   "DATA": [
+      {
+         "title": "Mobil Polisi Avanza",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3905.jpg",
+         "link_mods": "https://www.mediafire.com/file/qcf0l4lngiy7xba/Mobil+Polisi+Avanza.rar/file",
+         "link_livery": "https://www.mediafire.com/file/teucpk3kwn888cc/livery_polisi_avanza.jpg/file"
+      } ,
+	{
+         "title": "Police Car Mercedes-Benz AMG",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2023/06/3906.jpg",
+         "link_mods": "https://www.mediafire.com/file/qr7czuwb1db3oxf/Livery+Polisi+Mercedes-benz+AMG.rar/file",
+         "link_livery": "https://www.mediafire.com/file/6junt60mvjv5bk8/Livery_Polisi_Mercedes-benz_AMG.png/file"
+      },
+	{
+         "title": "Mobil Polisi Pajero 2017 ",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mobil-Polisi-Pajero-2017-Sport.webp",
+         "link_mods": "https://www.mediafire.com/file/1l199efchwbnbi8/Mobil+Polisi+Pajero+2017.rar/file",
+         "link_livery": "null"
+      },
+	{
+         "title": "C63 Glossy Police",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mercy-C63-Glossy-Police.webp",
+         "link_mods": "https://www.mediafire.com/file/ivgn0gzfb6mqjgk/C63+GLOSSY.rar/file",
+         "link_livery": "https://www.mediafire.com/file/6junt60mvjv5bk8/Livery_Polisi_Mercedes-benz_AMG.png/file"
+      },
+	{
+         "title": "Mod Police Car Honda Jazz",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Police-Car-Honda-Jazz.webp",
+         "link_mods": "https://download1521.mediafire.com/46yvgeyjfdsgh1t3Q25ZheItGh0X_3QAXJlh8vzcdjXS0aDebUvqhKPWNA-wjmGe-5Wwhlud3xAbD17O5I1EmSucVeMgPv93uvSypZBUG-X1hIzgl8sywKFKPT0R3O_tPHgell1hYt8yRc48UspVxs_to6nxc2x-hL0UFUOHnSVzTSU/9ir2w6ctb054ed5/Police+Car+Honda+Jazz.rar",
+         "link_livery": "https://www.mediafire.com/file/ohyua0dd5367iy9/polisi.png/file"
+      },
+	{
+         "title": "Mobil Polisi Toyota Rush New",
+         "image": https://media.thelastsurvivors.org/2022/11/Mobil-Polisi-Toyota-Rush-New.webp"",
+         "link_mods": "https://download2293.mediafire.com/5launv1hu6eg22xpxBo9fvXEVxJHzPNcYWGyZmLO_ByAyA7Bn2ScooTdwA3BFneXdC9CemdvJsNJQZNeLdtRhOEQgSrl8rUALwBiUBXvSvZsYvbQIs77xURSqssX1cLoDZxvxykM68MhDBbwCw3OWcyA4VUB63_yOme4ii5dVea4KzM/26tue2w1z6ycny9/Toyota+Rush+New+.rar",
+         "link_livery": "https://www.mediafire.com/view/v6xydurmz0td2n7"
+      },
+	{
+         "title": "Mobil Polisi Mitubishi Strada L200 Patwal",
+         "image": "https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/07/693.jpg",
+         "link_mods": "https://download2299.mediafire.com/n57m8z0cke5gQLq0ocZ9XjrtainAEEOEd0ibtxgKexm2BySkOvLPGGQJ86EUYWVNwYTtcMSzax36Z7jOC_AljC_4HD44Zse0V-JgoyMsqfF3Yj8CBu5LSLU6KquHyoyPLrHr3q0X4Z6kELe-IerEaMM3iioDksgOjOSnicPWH-9Nz7k/lz7z5fy7sa64qph/Mobil+Polisi+Strada+L200+Patwal.rar",
+         "link_livery": "https://www.mediafire.com/file/fn0j7ch5bkoxdiv/1588778140420.png/file"
+      },
+	{
+         "title": "Mobil Polisi Korps Brimob",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Mobil-Polisi-Korps-Brimob.webp",
+         "link_mods": "https://download2280.mediafire.com/njytbi3l50bgobj8ZDLfMS1nESicLkAobCsaOUr2lGx0-biTp4mzPdI4rrtGboPvzFRksb7buUXeZfsRJRNUUuJv0-0CuXLfpPYbt2Qn_xWZXwKLsfe44ftkzOlQQejcV90rugXVkvFzcldhGXpK2Spaf51W_02m9MMhOKTyUI6ga3g/la1lvrn9edz68b3/Mod+Mobil+Polisi+Korps+Brimob.bussidmod",
+         "link_livery": "null"
+      },
+	{
+         "title": "Truk Canter Polisi Setengah Penutup",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mobil-Canter-Polisi-Setengah-Penutup.webp",
+         "link_mods": "https://download2299.mediafire.com/ezxpppc6k14g1ksq1HAhoFIHlqtwhV9gfKV--cMYTxsd5NaY65tRfi3gb6LIKiYoeGkpRPdLy6NHJloXMqL-UBiW0y2QeEdS-Sb16bz7ct57rqAUXMwaGurhDOIuHYTzT9E6Dwx-jMwayfwmj7fDe_69GK8fPGWG7aBfreSsnPZraeM/rhxude5hz2sjta4/Mobil+Canter+Polisi+Setengah+Penutup.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mobil Polisi Water Canon",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mobil-Polisi-Water-Canon.webp",
+         "link_mods": "https://download1323.mediafire.com/4axx8kg890pgmtu6O7WXrkXSPz_DvOgHKvVSAoLy7AZK1FWtmBfTbbDNfxb5awOkvk_g4bHtsG0D_pYuWLmbb_mHFgTUXfs0H2IAch7sl1Fwo6wK0oVJNrW8rJ75B18yzOaFVyUWrrXW8h5iUvrvB06zJlBLB73B6gE7klbAaGKDEqs/moin1oc7b4cspox/Truk+Water+Canon+Polisi.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mobil Mod Lamborghini Patwal",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mobil-Mod-Lamborghini-Patwal.webp",
+         "link_mods": "https://download2300.mediafire.com/tqs0v2jsmdagF4Nm5RhPB5dm0_w9tbPU_TnFAGW9xTh7VkwS_tI6gY8sygYzbdzYom8Hlfx7jAL9-3umvablv3qAjvf0uLhf_DGdbKOrvgou2-VqedJ8zi84s-8o3V6CwmaaiIZz8gErSwLb2d_z55_l-sIr4vaU9RJdqylELGdSqUU/xjc3x0yrq92mzkz/LAMBORGHINI+Aventador+PATWAL.rar",
+         "link_livery": "null"
+      },
+	{
+         "title": "Mobil Avanza E Polda Metro Jaya",
+         "image": "https://media.thelastsurvivors.org/2022/11/Mod-Mobil-Avanza-E-Polda-Metro-Jaya.webp",
+         "link_mods": "https://www.mediafire.com/file/h631ckuwlwf6add/Avanza+E+Polda+Metro+Jaya.rar/file",
+         "link_livery": "null"
+      },
+	{
+         "title": "Toyota Avanza S 2011 KORPS BRIMOB",
+         "image": "https://media.thelastsurvivors.org/2022/11/Toyota-Avanza-S-2011-KORPS-BRIMOB.webp",
+         "link_mods": "https://www.mediafire.com/file/6jvyakrlgi49sjs/Toyota+Avanza+S+2011+KORPS+BRIMOB.rar/file",
+         "link_livery": "null"
+      }
+   ]
+}
